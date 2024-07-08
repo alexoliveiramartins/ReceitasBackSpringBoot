@@ -1,4 +1,4 @@
-package receitas.ufg.br;
+package receitas.br.ufg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

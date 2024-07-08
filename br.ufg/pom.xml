@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>receitas</groupId>
-	<artifactId>ufg.br</artifactId>
+	<artifactId>br.ufg</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ufg.br</name>
-	<description>App de Receitas Java Spring Boot + React JS</description>
+	<name>br.ufg</name>
+	<description>App SpringBoot receitas</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
