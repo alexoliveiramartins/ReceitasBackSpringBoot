@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "Bolo de Chocolate",
+    "categoria": "Sobremesa",
+    "origem": "Brasil",
+    "ingredientes": [
+      {"nome": "Farinha de Trigo", "quantidade": "2 xícaras"},
+      {"nome": "Açúcar", "quantidade": "1 xícara"},
+      {"nome": "Chocolate em Pó", "quantidade": "1 xícara"},
+      {"nome": "Ovos", "quantidade": "3 unidades"},
+      {"nome": "Leite", "quantidade": "1 xícara"},
+      {"nome": "Manteiga", "quantidade": "100 gramas"}
+    ],
+    "modoDePreparo": "Misture os ingredientes secos. Adicione os ovos, leite e manteiga. Asse a 180°C por 30 minutos.",
+    "pathImagem": "imagens/bolo_de_chocolate.jpg"
+  },
+  {
+    "nome": "Pão de Queijo",
+    "categoria": "Lanche",
+    "origem": "Minas Gerais, Brasil",
+    "ingredientes": [
+      {"nome": "Polvilho Doce", "quantidade": "2 xícaras"},
+      {"nome": "Queijo Ralado", "quantidade": "1 xícara"},
+      {"nome": "Leite", "quantidade": "1/2 xícara"},
+      {"nome": "Óleo", "quantidade": "1/4 xícara"},
+      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Sal", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Misture todos os ingredientes até obter uma massa homogênea. Faça bolinhas e asse a 200°C por 20 minutos.",
+    "pathImagem": "imagens/pao_de_queijo.jpg"
+  },
+  {
+    "nome": "Sopa de Legumes",
+    "categoria": "Entrada",
+    "origem": "Internacional",
+    "ingredientes": [
+      {"nome": "Batata", "quantidade": "2 unidades"},
+      {"nome": "Cenoura", "quantidade": "2 unidades"},
+      {"nome": "Abobrinha", "quantidade": "1 unidade"},
+      {"nome": "Caldo de Legumes", "quantidade": "1 litro"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Refogue a cebola e o alho no azeite. Adicione os legumes picados e o caldo de legumes. Cozinhe até os legumes ficarem macios.",
+    "pathImagem": "imagens/sopa_de_legumes.jpg"
+  }
+]

@@ -1,6 +1,8 @@
 package receitas.br.ufg;
 
-public class Receitas {
+import java.util.ArrayList;
+
+public class Receita {
 
     private String nome;
     private String categoria;
