@@ -16,7 +16,7 @@ public class ReceitaService {
     public ReceitaService() {
         ObjectMapper objectMapper = new ObjectMapper();
         try {
-            receitas = objectMapper.readValue(new File("br.ufg/src/main/Receitas/receitas.json"), new TypeReference<ArrayList<Receita>>() {});
+            receitas = objectMapper.readValue(new File("br.ufg/src/main/resources/receitas.json"), new TypeReference<ArrayList<Receita>>() {});
         } catch (IOException e) {
             e.printStackTrace();
         }
