@@ -25,4 +25,15 @@ public class ReceitaService {
     public ArrayList<Receita> getReceitas() {
         return receitas;
     }
+
+    public ArrayList<Receita> getReceitasByCountry(String pais){
+        ArrayList<Receita> receitasPais = new ArrayList<Receita>();
+
+        for(Receita a : receitas){
+            if(a.getOrigem().equals(pais)){
+                receitasPais.add(a);
+            }
+        }
+        return receitasPais;
+    }
 }

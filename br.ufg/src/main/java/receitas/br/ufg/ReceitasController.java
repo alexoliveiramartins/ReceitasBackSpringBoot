@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.ArrayList;
 
@@ -15,7 +16,12 @@ public class ReceitasController {
     private ReceitaService receitaService;
 
     @GetMapping("/receitas")
-    public ArrayList<Receita> a(){
-        return receitaService.getReceitas();
+    public ArrayList<Receita> receitas(@RequestParam(required = false) String pais) {
+        if (pais != null) {
+            return receitaService.getReceitasByCountry(pais);
+        } else {
+            return receitaService.getReceitas();
+        }
     }
+
 }
