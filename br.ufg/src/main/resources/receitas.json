@@ -12,7 +12,7 @@
       {"nome": "Manteiga", "quantidade": "100 gramas"}
     ],
     "modoDePreparo": "Misture os ingredientes secos. Adicione os ovos, leite e manteiga. Asse a 180°C por 30 minutos.",
-    "pathImagem": "imagens/bolo_de_chocolate.jpg"
+    "pathImagem": "https://www.estadao.com.br/resizer/oFDrDp3xgfze9zuyNaR5gnyURVA=/arc-anglerfish-arc2-prod-estadao/public/FIVYQFU6J5ND3PYRA6XQHR4NW4.jpg"
   },
   {
     "nome": "Pão de Queijo",
@@ -27,7 +27,7 @@
       {"nome": "Sal", "quantidade": "a gosto"}
     ],
     "modoDePreparo": "Misture todos os ingredientes até obter uma massa homogênea. Faça bolinhas e asse a 200°C por 20 minutos.",
-    "pathImagem": "imagens/pao_de_queijo.jpg"
+    "pathImagem": "https://static.itdg.com.br/images/360-240/91f752bd7f720be5bc6d209dae386c73/pao-de-queijo-facil-e-delicioso-1-.png"
   },
   {
     "nome": "Sopa de Legumes",
@@ -45,6 +45,25 @@
       {"nome": "Pimenta", "quantidade": "a gosto"}
     ],
     "modoDePreparo": "Refogue a cebola e o alho no azeite. Adicione os legumes picados e o caldo de legumes. Cozinhe até os legumes ficarem macios.",
-    "pathImagem": "imagens/sopa_de_legumes.jpg"
+    "pathImagem": "https://assets.unileversolutions.com/recipes-v2/36850.jpg"
+  },
+  {
+    "nome": "Oden",
+    "categoria": "Prato Principal",
+    "origem": "Japonesa",
+    "ingredientes": [
+      {"nome": "Ovos cozidos", "quantidade": "4 unidades"},
+      {"nome": "Daikon (nabo japonês)", "quantidade": "1 unidade"},
+      {"nome": "Konnyaku (gelatina de batata)", "quantidade": "200g"},
+      {"nome": "Chikuwa (massa de peixe)", "quantidade": "4 unidades"},
+      {"nome": "Kombu (alga seca)", "quantidade": "1 folha"},
+      {"nome": "Dashi (caldo de peixe ou alga)", "quantidade": "1 litro"},
+      {"nome": "Shoyu (molho de soja)", "quantidade": "2 colheres de sopa"},
+      {"nome": "Mirin (saquê doce)", "quantidade": "2 colheres de sopa"},
+      {"nome": "Sal", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Corte o daikon em rodelas grossas. Ferva o dashi com kombu, shoyu, mirin e sal. Adicione os ingredientes (daikon, konnyaku, chikuwa) ao caldo e cozinhe até os vegetais estarem macios.",
+    "pathImagem": "https://www.justonecookbook.com/wp-content/uploads/2022/10/Oden-Japanese-Fish-Cake-Stew-0974-I-1.jpg"
   }
+
 ]
