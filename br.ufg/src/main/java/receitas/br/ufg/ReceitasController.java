@@ -1,10 +1,7 @@
 package receitas.br.ufg;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 
@@ -28,5 +25,10 @@ public class ReceitasController {
         } else {
             return receitaService.getReceitas();
         }
+    }
+
+    @GetMapping("/receitas/{nome}")
+    public Receita receitasPorNome(@PathVariable String nome){
+        return receitaService.getReceitasByNome(nome);
     }
 }

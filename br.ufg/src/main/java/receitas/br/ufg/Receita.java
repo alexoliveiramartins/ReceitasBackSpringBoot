@@ -6,6 +6,7 @@ public class Receita {
 
     private String nome;
     private String categoria;
+    private String descricao;
     private String origem;
     private ArrayList<Ingrediente> ingredientes;
     private String modoDePreparo;
@@ -57,5 +58,13 @@ public class Receita {
 
     public void setPathImagem(String pathImagem) {
         this.pathImagem = pathImagem;
+    }
+
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
     }
 }

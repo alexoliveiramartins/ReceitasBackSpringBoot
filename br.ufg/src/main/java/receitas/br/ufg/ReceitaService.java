@@ -2,6 +2,7 @@ package receitas.br.ufg;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.apache.catalina.valves.rewrite.RewriteCond;
 import org.springframework.stereotype.Service;
 
 import java.io.File;
@@ -39,6 +40,15 @@ public class ReceitaService {
         }
         return receitasPais;
     }
+
+    public Receita getReceitasByNome(String nome){
+        for (Receita receita : receitas) {
+            if (receita.getNome().equalsIgnoreCase(nome)) {
+                return receita;
+            }
+        }
+        return receitas.get(1);
+     }
 
     public ArrayList<Receita> getReceitasByIngredients(ArrayList<String> ingredientes) {
         ArrayList<Receita> sameIngredients = new ArrayList<>();
