@@ -105,5 +105,68 @@
     ],
     "modoDePreparo": "Descasque e corte as batatas em palitos. Mergulhe os filés de peixe na massa de cerveja e farinha. Frite até dourar. Sirva com batatas fritas e vinagre de malte.",
     "pathImagem": "https://images.themodernproper.com/billowy-turkey/production/posts/2022/FishandChips_11.jpg?w=1200&q=82&auto=format&fit=crop&dm=1672266407&s=a887e112d17bb684da212d50a2189366"
+  },
+  {
+    "nome": "Bitterballen",
+    "categoria": "Petisco",
+    "descricao": "Petisco holandês crocante por fora e cremoso por dentro, feito com ragu de carne bovina e servido com mostarda.",
+    "origem": "NL",
+    "ingredientes": [
+      {"nome": "Carne bovina moída", "quantidade": "250g"},
+      {"nome": "Manteiga", "quantidade": "50g"},
+      {"nome": "Farinha de trigo", "quantidade": "50g"},
+      {"nome": "Caldo de carne", "quantidade": "250ml"},
+      {"nome": "Leite", "quantidade": "250ml"},
+      {"nome": "Cebola picada", "quantidade": "1 unidade"},
+      {"nome": "Salsinha picada", "quantidade": "2 colheres de sopa"},
+      {"nome": "Noz-moscada", "quantidade": "1 pitada"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Ovo", "quantidade": "1 unidade"},
+      {"nome": "Farinha de rosca", "quantidade": "para empanar"},
+      {"nome": "Óleo vegetal", "quantidade": "para fritar"},
+      {"nome": "Mostarda", "quantidade": "para servir"}
+    ],
+    "modoDePreparo": "Refogue a cebola na manteiga, adicione a carne moída e cozinhe até dourar. Acrescente a farinha e cozinhe por mais 2 minutos. Adicione o caldo de carne e o leite aos poucos, mexendo até obter um ragu espesso. Tempere com sal, pimenta e noz-moscada. Misture a salsinha. Deixe esfriar, modele bolinhas, passe no ovo batido e na farinha de rosca. Frite em óleo quente até dourar. Sirva com mostarda.",
+    "pathImagem": "https://s2-casaejardim.glbimg.com/xVsvprPn3nXcgbOHdUkr70NtnsU=/0x0:1280x853/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2022/9/C/0yDfkcQK6ObbnIcfD6Ng/receita-de-bitterballen-croquete-de-carne.jpg"
+  },
+  {
+    "nome": "Panqueca Americana",
+    "categoria": "Café da Manhã",
+    "descricao": "Clássica panqueca americana, servida com mel, maple syrup ou frutas frescas.",
+    "origem": "US",
+    "ingredientes": [
+      {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
+      {"nome": "Açúcar", "quantidade": "2 colheres de sopa"},
+      {"nome": "Fermento em pó", "quantidade": "2 colheres de chá"},
+      {"nome": "Sal", "quantidade": "1/2 colher de chá"},
+      {"nome": "Leite", "quantidade": "1 xícara"},
+      {"nome": "Ovo", "quantidade": "1 unidade"},
+      {"nome": "Manteiga derretida", "quantidade": "2 colheres de sopa"},
+      {"nome": "Óleo vegetal", "quantidade": "para untar a frigideira"}
+    ],
+    "modoDePreparo": "Em uma tigela, misture a farinha, açúcar, fermento e sal. Em outra tigela, bata o leite, ovo e manteiga. Combine as misturas e mexa até obter uma massa homogênea. Aqueça uma frigideira untada com óleo em fogo médio. Despeje a massa na frigideira e cozinhe até aparecerem bolhas na superfície. Vire e cozinhe do outro lado até dourar. Sirva quente com mel, maple syrup ou frutas frescas.",
+    "pathImagem": "https://img.cybercook.com.br/receitas/545/panqueca-americana-8.jpeg"
+  },
+  {
+    "nome": "Coxinha",
+    "categoria": "Salgado",
+    "descricao": "Salgado brasileiro popular, consiste em uma massa de batata recheada com frango desfiado, empanada e frita.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Peito de frango cozido e desfiado", "quantidade": "1 xícara"},
+      {"nome": "Caldo de galinha", "quantidade": "1 xícara"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Cebola picada", "quantidade": "1 unidade"},
+      {"nome": "Alho picado", "quantidade": "2 dentes"},
+      {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
+      {"nome": "Leite", "quantidade": "1 xícara"},
+      {"nome": "Batatas cozidas e amassadas", "quantidade": "2 xícaras"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Óleo vegetal", "quantidade": "para fritar"}
+    ],
+    "modoDePreparo": "Em uma panela, refogue a cebola e o alho na manteiga até dourar. Adicione o frango desfiado e o caldo de galinha, cozinhando até secar um pouco. Acrescente a farinha de trigo e mexa bem. Adicione o leite aos poucos, mexendo até obter uma massa grossa. Tempere com sal e pimenta. Modele as coxinhas, recheando com o frango e empanando com farinha de rosca. Frite em óleo quente até dourar. Sirva quente.",
+    "pathImagem": "https://d1uz88p17r663j.cloudfront.net/original/819f012f2c1c7577ac2fbefe0312c85c_coxinha-receitas-nestle.jpg"
   }
 ]
