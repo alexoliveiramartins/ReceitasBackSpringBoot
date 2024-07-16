@@ -70,4 +70,29 @@ public class ReceitaService {
         }
         return sameIngredients;
     }
+
+    public ArrayList<Receita> getReceitasWithIngredient(String ingredientes){
+        ArrayList<Receita> receitasComIngrediente = new ArrayList<>();
+        String[] ingredientesInput = ingredientes.split(",");
+        ArrayList<String> listaIngredientes = new ArrayList<>(Arrays.asList(ingredientesInput));
+
+        int tamInput = listaIngredientes.size();
+
+        for(Receita r : receitas){
+            int count = 0;
+            ArrayList<Ingrediente> receitaIngredientes = r.getIngredientes();
+            for(String s : listaIngredientes){
+                for(Ingrediente i : receitaIngredientes){
+                    if(i.getNome().equals(s)){
+                        count++;
+                    }
+                }
+            }
+            if(count == tamInput){
+                receitasComIngrediente.add(r);
+            }
+        }
+        return receitasComIngrediente;
+    }
+
 }
