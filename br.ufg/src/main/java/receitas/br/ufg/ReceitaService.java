@@ -57,12 +57,14 @@ public class ReceitaService {
             int ingredientesCount = 0;
             ArrayList<Ingrediente> receitaIngredientes = r.getIngredientes();
             for (Ingrediente i : receitaIngredientes) {
-                if (listaIngredientes.contains(i.getNome())) {
-                    count++;
+                for(String s : listaIngredientes){
+                    if(s.equals(i.getNome())){
+                        count++;
+                    }
                 }
                 ingredientesCount++;
             }
-            if (count == listaIngredientes.size() && count == ingredientesCount) {
+            if (count <= listaIngredientes.size() && count == ingredientesCount) {
                 sameIngredients.add(r);
             }
         }

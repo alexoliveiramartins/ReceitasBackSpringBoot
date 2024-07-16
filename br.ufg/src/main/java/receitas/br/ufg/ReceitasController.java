@@ -20,7 +20,6 @@ public class ReceitasController {
         else {
             return receitaService.getReceitasByIngredients(ingredientes);
         }
-
     }
 
     @GetMapping("/receitas/pais")
