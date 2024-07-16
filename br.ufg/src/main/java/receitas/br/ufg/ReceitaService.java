@@ -8,10 +8,7 @@ import org.springframework.stereotype.Service;
 import java.io.File;
 import java.io.IOException;
 import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 @Service
 public class ReceitaService {
@@ -50,18 +47,22 @@ public class ReceitaService {
         return receitas.get(1);
      }
 
-    public ArrayList<Receita> getReceitasByIngredients(ArrayList<String> ingredientes) {
+    public ArrayList<Receita> getReceitasByIngredients(String ingredientes) {
         ArrayList<Receita> sameIngredients = new ArrayList<>();
+        String[] ingredientesInput = ingredientes.split(",");
+        ArrayList<String> listaIngredientes = new ArrayList<>(Arrays.asList(ingredientesInput));
 
         for (Receita r : receitas) {
             int count = 0;
+            int ingredientesCount = 0;
             ArrayList<Ingrediente> receitaIngredientes = r.getIngredientes();
             for (Ingrediente i : receitaIngredientes) {
-                if (ingredientes.contains(i.getNome())) {
+                if (listaIngredientes.contains(i.getNome())) {
                     count++;
                 }
+                ingredientesCount++;
             }
-            if (count == ingredientes.size()) {
+            if (count == listaIngredientes.size() && count == ingredientesCount) {
                 sameIngredients.add(r);
             }
         }

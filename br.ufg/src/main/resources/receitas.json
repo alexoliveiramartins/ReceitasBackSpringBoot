@@ -168,5 +168,20 @@
     ],
     "modoDePreparo": "Em uma panela, refogue a cebola e o alho na manteiga até dourar. Adicione o frango desfiado e o caldo de galinha, cozinhando até secar um pouco. Acrescente a farinha de trigo e mexa bem. Adicione o leite aos poucos, mexendo até obter uma massa grossa. Tempere com sal e pimenta. Modele as coxinhas, recheando com o frango e empanando com farinha de rosca. Frite em óleo quente até dourar. Sirva quente.",
     "pathImagem": "https://d1uz88p17r663j.cloudfront.net/original/819f012f2c1c7577ac2fbefe0312c85c_coxinha-receitas-nestle.jpg"
+  },
+  {
+    "nome": "Sopa de Abóbora",
+    "categoria": "Prato Principal",
+    "descricao": "Sopa cremosa de abóbora com um toque de especiarias.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Abóbora", "quantidade": "500g"},
+      {"nome": "Cebola", "quantidade": "1 unidade grande"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Caldo de legumes", "quantidade": "500ml"},
+      {"nome": "Creme de leite", "quantidade": "200ml"}
+    ],
+    "modoDePreparo": "Refogue a cebola e o alho até dourar. Adicione a abóbora cortada em cubos e o caldo de legumes. Cozinhe até a abóbora ficar macia. Bata no liquidificador até obter um creme. Volte ao fogo, adicione o creme de leite e tempere com sal e pimenta a gosto.",
+    "pathImagem": "https://s2.glbimg.com/VODyLdnZzjE4T0c6nufYn7mXjto=/0x0:620x413/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/09/20/18/04/54/909/sopa-abobora.jpg"
   }
 ]

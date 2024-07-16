@@ -13,18 +13,19 @@ public class ReceitasController {
     private ReceitaService receitaService;
 
     @GetMapping("/receitas")
-    public ArrayList<Receita> receitas(
-            @RequestParam(required = false) String pais,
-            @RequestParam(required = false) ArrayList<String> ingredientes
-    ) {
-        if (pais != null) {
-            return receitaService.getReceitasByCountry(pais);
-        }
-        if (ingredientes != null && !ingredientes.isEmpty()) {
-            return receitaService.getReceitasByIngredients(ingredientes);
-        } else {
+    public ArrayList<Receita> receitas( @RequestParam(required = false) String ingredientes) {
+        if(ingredientes == null){
             return receitaService.getReceitas();
         }
+        else {
+            return receitaService.getReceitasByIngredients(ingredientes);
+        }
+
+    }
+
+    @GetMapping("/receitas/pais")
+    public ArrayList<Receita> receitasPorPais(@RequestParam(required = true) String pais){
+        return receitaService.getReceitasByCountry(pais);
     }
 
     @GetMapping("/receitas/{nome}")
