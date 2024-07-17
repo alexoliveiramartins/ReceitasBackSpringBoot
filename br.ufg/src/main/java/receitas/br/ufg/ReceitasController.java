@@ -15,15 +15,15 @@ public class ReceitasController {
     @GetMapping("/receitas")
     public ArrayList<Receita> receitas(
             @RequestParam(required = false) String ingredientes,
-            @RequestParam(required = false) String comIngredientes) {
-        if(ingredientes == null && comIngredientes == null){
+            @RequestParam(required = false) String contemIngredientes) {
+        if(ingredientes == null && contemIngredientes == null){
             return receitaService.getReceitas();
         }
-        else if(comIngredientes == null){
+        else if(contemIngredientes == null){
             return receitaService.getReceitasByIngredients(ingredientes);
         }
         else if(ingredientes == null){
-            return receitaService.getReceitasWithIngredient(comIngredientes);
+            return receitaService.getReceitasWithIngredient(contemIngredientes);
         }
         return null;
     }

@@ -31,7 +31,7 @@ public class ReceitaService {
         ArrayList<Receita> receitasPais = new ArrayList<Receita>();
 
         for(Receita a : receitas){
-            if(a.getOrigem().equals(pais)){
+            if(a.getOrigem().equalsIgnoreCase(pais)){
                 receitasPais.add(a);
             }
         }
@@ -58,7 +58,7 @@ public class ReceitaService {
             ArrayList<Ingrediente> receitaIngredientes = r.getIngredientes();
             for (Ingrediente i : receitaIngredientes) {
                 for(String s : listaIngredientes){
-                    if(s.equals(i.getNome())){
+                    if(s.equalsIgnoreCase(i.getNome())){
                         count++;
                     }
                 }
@@ -83,7 +83,7 @@ public class ReceitaService {
             ArrayList<Ingrediente> receitaIngredientes = r.getIngredientes();
             for(String s : listaIngredientes){
                 for(Ingrediente i : receitaIngredientes){
-                    if(i.getNome().equals(s)){
+                    if(i.getNome().equalsIgnoreCase(s)){
                         count++;
                     }
                 }
