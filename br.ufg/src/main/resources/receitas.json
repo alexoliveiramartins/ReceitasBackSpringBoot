@@ -371,5 +371,47 @@
     ],
     "modoDePreparo": "Cozinhe as cenouras até ficarem macias. Faça um creme com alho batido e creme de leite, tempere com sal. Sirva as cenouras com o creme por cima.",
     "pathImagem": "https://www.receitas-sem-fronteiras.com/content/uploads/recipe/216015/0cec5822a8d259855b94a41b168f6dc3c8350b3d.jpg"
-  }
+  },
+  {
+  "nome": "Pavê de Sonho de Valsa",
+  "categoria": "Sobremesa",
+  "descricao": "Deliciosa sobremesa feita com biscoitos tipo champanhe, creme de chocolate e bombons Sonho de Valsa.",
+  "origem": "BR",
+  "ingredientes": [
+    {"nome": "Biscoitos tipo champanhe", "quantidade": "1 pacote"},
+    {"nome": "Leite", "quantidade": "500ml"},
+    {"nome": "Açúcar", "quantidade": "150g"},
+    {"nome": "Amido de milho", "quantidade": "2 colheres de sopa"},
+    {"nome": "Chocolate em pó", "quantidade": "4 colheres de sopa"},
+    {"nome": "Creme de leite", "quantidade": "1 lata"},
+    {"nome": "Bombons Sonho de Valsa", "quantidade": "10 unidades"},
+    {"nome": "Leite condensado", "quantidade": "1 lata"}
+  ],
+  "modoDePreparo": "Em uma panela, dissolva o amido de milho no leite. Adicione o açúcar e o chocolate em pó, e leve ao fogo médio até engrossar. Desligue o fogo e misture o creme de leite. Em um refratário, faça camadas alternadas de biscoitos champanhe umedecidos no leite e creme de chocolate. Finalize com uma camada de creme e decore com os bombons Sonho de Valsa picados. Leve à geladeira por algumas horas antes de servir.",
+  "pathImagem": "https://i0.wp.com/www.essenciastudio.com.br/wp-content/uploads/2024/01/pave-de-sonho-de-valsa-2-1.jpg?fit=1600%2C817&ssl=1"
+  },
+  {
+  "nome": "Torta de Frango",
+  "categoria": "Prato Principal",
+  "descricao": "Uma torta deliciosa e reconfortante, recheada com frango desfiado e temperado.",
+  "origem": "BR",
+  "ingredientes": [
+    {"nome": "Massa de torta pronta", "quantidade": "1 unidade"},
+    {"nome": "Peito de frango cozido e desfiado", "quantidade": "500g"},
+    {"nome": "Cebola", "quantidade": "1 unidade"},
+    {"nome": "Alho", "quantidade": "2 dentes"},
+    {"nome": "Tomate", "quantidade": "1 unidade"},
+    {"nome": "Milho verde", "quantidade": "1 lata"},
+    {"nome": "Ervilha", "quantidade": "1 lata"},
+    {"nome": "Azeitonas", "quantidade": "1/2 xícara"},
+    {"nome": "Caldo de galinha", "quantidade": "1 tablete"},
+    {"nome": "Creme de leite", "quantidade": "1 lata"},
+    {"nome": "Queijo ralado", "quantidade": "1 xícara"},
+    {"nome": "Ovo ", "quantidade": "1 unidade"},
+    {"nome": "Sal", "quantidade": "A gosto"},
+    {"nome": "Pimenta", "quantidade": "A gosto"}
+  ],
+  "modoDePreparo": "Refogue a cebola e o alho em um pouco de azeite até dourarem. Adicione o frango desfiado, o tomate, o milho, a ervilha (se desejar) e as azeitonas. Dissolva o caldo de galinha em um pouco de água quente e adicione ao refogado. Cozinhe por alguns minutos até reduzir o líquido. Desligue o fogo, adicione o creme de leite, o queijo ralado, e tempere com sal e pimenta a gosto. Forre uma forma com a massa de torta, coloque o recheio por cima e cubra com outra camada de massa. Pincele a superfície com ovo batido e leve ao forno preaquecido a 180°C por cerca de 30 minutos, ou até dourar.",
+  "pathImagem": "https://i.ytimg.com/vi/bhZ7CSbYqtY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6HSKeor2XgjCVxIYXDnl9KwyO8A"
+  },
 ]
