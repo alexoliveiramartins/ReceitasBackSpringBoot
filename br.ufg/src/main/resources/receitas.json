@@ -19,34 +19,34 @@
     "descricao": "Arroz branco simples e soltinho, ideal para acompanhar uma variedade de pratos.",
     "origem": "BR",
     "ingredientes": [
-        {"nome": "Arroz", "quantidade": "1 xícara"},
-        {"nome": "Água", "quantidade": "2 xícaras"},
-        {"nome": "Óleo", "quantidade": "1 colher de sopa"},
-        {"nome": "Sal", "quantidade": "A gosto"}
+      {"nome": "Arroz", "quantidade": "1 xícara"},
+      {"nome": "Água", "quantidade": "2 xícaras"},
+      {"nome": "Óleo", "quantidade": "1 colher de sopa"},
+      {"nome": "Sal", "quantidade": "A gosto"}
     ],
     "modoDePreparo": "Em uma panela, aqueça o óleo em fogo médio. Adicione o arroz e refogue por alguns minutos até que os grãos estejam levemente translúcidos. Adicione a água e o sal. Quando começar a ferver, reduza o fogo para baixo, tampe a panela e cozinhe por cerca de 15-20 minutos, ou até que a água tenha sido absorvida e o arroz esteja cozido. Desligue o fogo e deixe o arroz descansar, tampado, por alguns minutos antes de servir.",
     "pathImagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/7c44045d2e8577819cb76b2b404902dd.jpg"
-},
+  },
   {
-  "nome": "Arroz Carreteiro",
-  "categoria": "Prato Principal",
-  "descricao": "Um prato típico da culinária gaúcha, feito com arroz, carne de charque (carne seca), linguiça, tomate e temperos, cheio de sabor e tradição.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Carne", "quantidade": "200g"},
-    {"nome": "Linguiça calabresa", "quantidade": "200g"},
-    {"nome": "Arroz", "quantidade": "2 xícaras"},
-    {"nome": "Cebola", "quantidade": "1 unidade grande"},
-    {"nome": "Alho", "quantidade": "3 dentes"},
-    {"nome": "Tomate", "quantidade": "2 unidades médias"},
-    {"nome": "Pimentão", "quantidade": "1 unidade pequena"},
-    {"nome": "Óleo", "quantidade": "Para refogar"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Pimenta", "quantidade": "A gosto"},
-    {"nome": "Água", "quantidade": "4 xícaras"}
-  ],
-  "modoDePreparo": "Corte a carne em cubos pequenos e deixe de molho em água por algumas horas para dessalgar. Troque a água pelo menos duas vezes durante esse processo. Em uma panela grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione a carne de charque e frite até dourar. Acrescente a linguiça calabresa cortada em rodelas e frite por mais alguns minutos. Adicione a cebola picada, o alho picado, os pimentões picados e o tomate picado. Refogue até que os vegetais estejam macios. Acrescente o arroz lavado e escorrido, mexendo bem para envolver todos os ingredientes. Tempere com sal e pimenta do reino a gosto. Adicione a água fervente, abaixe o fogo, tampe a panela e cozinhe por aproximadamente 20 minutos, ou até que o arroz esteja cozido e a água tenha sido absorvida. Sirva quente.",
-  "pathImagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/f4322f4b99edd0f839d72ddf8908df79.webp?itok=asFmugo0"
+    "nome": "Arroz Carreteiro",
+    "categoria": "Prato Principal",
+    "descricao": "Um prato típico da culinária gaúcha, feito com arroz, carne de charque (carne seca), linguiça, tomate e temperos, cheio de sabor e tradição.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Carne", "quantidade": "200g"},
+      {"nome": "Linguiça calabresa", "quantidade": "200g"},
+      {"nome": "Arroz", "quantidade": "2 xícaras"},
+      {"nome": "Cebola", "quantidade": "1 unidade grande"},
+      {"nome": "Alho", "quantidade": "3 dentes"},
+      {"nome": "Tomate", "quantidade": "2 unidades médias"},
+      {"nome": "Pimentão", "quantidade": "1 unidade pequena"},
+      {"nome": "Óleo", "quantidade": "Para refogar"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Água", "quantidade": "4 xícaras"}
+    ],
+    "modoDePreparo": "Corte a carne em cubos pequenos e deixe de molho em água por algumas horas para dessalgar. Troque a água pelo menos duas vezes durante esse processo. Em uma panela grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione a carne de charque e frite até dourar. Acrescente a linguiça calabresa cortada em rodelas e frite por mais alguns minutos. Adicione a cebola picada, o alho picado, os pimentões picados e o tomate picado. Refogue até que os vegetais estejam macios. Acrescente o arroz lavado e escorrido, mexendo bem para envolver todos os ingredientes. Tempere com sal e pimenta do reino a gosto. Adicione a água fervente, abaixe o fogo, tampe a panela e cozinhe por aproximadamente 20 minutos, ou até que o arroz esteja cozido e a água tenha sido absorvida. Sirva quente.",
+    "pathImagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/f4322f4b99edd0f839d72ddf8908df79.webp?itok=asFmugo0"
   },
   {
     "nome": "Bife à Milanesa",
@@ -54,33 +54,33 @@
     "descricao": "Bifes empanados e fritos, crocantes por fora e suculentos por dentro. Um clássico da culinária que agrada a todos.",
     "origem": "IT",
     "ingredientes": [
-        {"nome": "Bife de Carne", "quantidade": "4 unidades"},
-        {"nome": "Farinha de Trigo", "quantidade": "1/2 xícara"},
-        {"nome": "Ovos", "quantidade": "2 unidades"},
-        {"nome": "Farinha de Rosca", "quantidade": "1 xícara"},
-        {"nome": "Sal", "quantidade": "A gosto"},
-        {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
-        {"nome": "Alho em Pó", "quantidade": "1 colher de chá"},
-        {"nome": "Óleo para Fritar", "quantidade": "Suficiente para cobrir os bifes na frigideira"}
+      {"nome": "Bife de Carne", "quantidade": "4 unidades"},
+      {"nome": "Farinha de Trigo", "quantidade": "1/2 xícara"},
+      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Farinha de Rosca", "quantidade": "1 xícara"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
+      {"nome": "Alho em Pó", "quantidade": "1 colher de chá"},
+      {"nome": "Óleo para Fritar", "quantidade": "Suficiente para cobrir os bifes na frigideira"}
     ],
     "modoDePreparo": "Tempere os bifes com sal, pimenta-do-reino e alho em pó. Passe cada bife na farinha de trigo, garantindo que esteja bem coberto e retire o excesso. Em seguida, mergulhe os bifes nos ovos batidos e, por fim, passe-os na farinha de rosca, pressionando para que a farinha grude bem. Aqueça o óleo em uma frigideira grande em fogo médio-alto. Frite os bifes até que estejam dourados e crocantes, cerca de 3-4 minutos de cada lado. Retire os bifes e coloque-os sobre papel toalha para remover o excesso de óleo. Sirva quente, acompanhado de arroz, salada ou o que preferir.",
     "pathImagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/05/29/bife-a-milanesa-de-forno-sem-gluten-qhnbc238qur5.jpg"
   },
   {
-  "nome": "Biscoito de Queijo",
-  "categoria": "Petisco",
-  "descricao": "Deliciosos biscoitos de queijo crocantes por fora e macios por dentro, perfeitos para acompanhar um café.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Queijo", "quantidade": "1 xícara"},
-    {"nome": "Manteiga", "quantidade": "100g"},
-    {"nome": "Farinha de trigo", "quantidade": "1 e 1/2 xícara"},
-    {"nome": "Fermento", "quantidade": "1 colher de chá"},
-    {"nome": "Sal", "quantidade": "1/2 colher de chá"},
-    {"nome": "Pimenta", "quantidade": "A gosto"}
-  ],
-  "modoDePreparo": "Em uma tigela, misture o queijo ralado com a manteiga até obter uma mistura cremosa. Adicione a farinha de trigo, o fermento em pó, o sal e a pimenta do reino. Amasse bem até formar uma massa homogênea. Modele pequenos discos com a massa e coloque em uma assadeira untada. Leve ao forno preaquecido a 180°C por cerca de 15 minutos, ou até que os biscoitos estejam dourados. Deixe esfriar antes de servir.",
-  "pathImagem": "https://i.ytimg.com/vi/apdqUgIrpGk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBS6K7EIp4RnS9-88aNTsgojuylCA"
+    "nome": "Biscoito de Queijo",
+    "categoria": "Petisco",
+    "descricao": "Deliciosos biscoitos de queijo crocantes por fora e macios por dentro, perfeitos para acompanhar um café.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Queijo", "quantidade": "1 xícara"},
+      {"nome": "Manteiga", "quantidade": "100g"},
+      {"nome": "Farinha de trigo", "quantidade": "1 e 1/2 xícara"},
+      {"nome": "Fermento", "quantidade": "1 colher de chá"},
+      {"nome": "Sal", "quantidade": "1/2 colher de chá"},
+      {"nome": "Pimenta", "quantidade": "A gosto"}
+    ],
+    "modoDePreparo": "Em uma tigela, misture o queijo ralado com a manteiga até obter uma mistura cremosa. Adicione a farinha de trigo, o fermento em pó, o sal e a pimenta do reino. Amasse bem até formar uma massa homogênea. Modele pequenos discos com a massa e coloque em uma assadeira untada. Leve ao forno preaquecido a 180°C por cerca de 15 minutos, ou até que os biscoitos estejam dourados. Deixe esfriar antes de servir.",
+    "pathImagem": "https://i.ytimg.com/vi/apdqUgIrpGk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBS6K7EIp4RnS9-88aNTsgojuylCA"
   },
   {
     "nome": "Bitterballen",
@@ -107,61 +107,61 @@
     "pathImagem": "https://s2-casaejardim.glbimg.com/xVsvprPn3nXcgbOHdUkr70NtnsU=/0x0:1280x853/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2022/9/C/0yDfkcQK6ObbnIcfD6Ng/receita-de-bitterballen-croquete-de-carne.jpg"
   },
   {
-  "nome": "Bolinho de Arroz",
-  "categoria": "Petisco",
-  "descricao": "Petisco delicioso feito com arroz cozido, queijo, ovos e temperos, ideal para aproveitar sobras de arroz de forma criativa.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Arroz cozido", "quantidade": "2 xícaras"},
-    {"nome": "Queijo", "quantidade": "1/2 xícara"},
-    {"nome": "Ovo", "quantidade": "1 unidade"},
-    {"nome": "Cebola", "quantidade": "1/2 unidade pequena"},
-    {"nome": "Salsinha", "quantidade": "2 colheres de sopa"},
-    {"nome": "Farinha de trigo", "quantidade": "2 colheres de sopa"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Pimenta", "quantidade": "A gosto"},
-    {"nome": "Óleo", "quantidade": "Para fritar"}
-  ],
-  "modoDePreparo": "Em uma tigela grande, misture o arroz cozido com o queijo ralado, o ovo, a cebola picada, a salsinha picada, a farinha de trigo, o sal e a pimenta do reino. Amasse bem até obter uma massa homogênea e que possa ser moldada em bolinhas. Se necessário, adicione mais farinha de trigo para dar consistência. Modele pequenas bolinhas com as mãos. Em uma frigideira, aqueça o óleo em fogo médio. Frite os bolinhos de arroz até que estejam dourados e crocantes por fora. Retire com uma escumadeira e deixe escorrer em papel toalha. Sirva quente como petisco.",
-  "pathImagem": "https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/other/bolinho-de-arroz/main-header.jpg"
+    "nome": "Bolinho de Arroz",
+    "categoria": "Petisco",
+    "descricao": "Petisco delicioso feito com arroz cozido, queijo, ovos e temperos, ideal para aproveitar sobras de arroz de forma criativa.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Arroz cozido", "quantidade": "2 xícaras"},
+      {"nome": "Queijo", "quantidade": "1/2 xícara"},
+      {"nome": "Ovo", "quantidade": "1 unidade"},
+      {"nome": "Cebola", "quantidade": "1/2 unidade pequena"},
+      {"nome": "Salsinha", "quantidade": "2 colheres de sopa"},
+      {"nome": "Farinha de trigo", "quantidade": "2 colheres de sopa"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Óleo", "quantidade": "Para fritar"}
+    ],
+    "modoDePreparo": "Em uma tigela grande, misture o arroz cozido com o queijo ralado, o ovo, a cebola picada, a salsinha picada, a farinha de trigo, o sal e a pimenta do reino. Amasse bem até obter uma massa homogênea e que possa ser moldada em bolinhas. Se necessário, adicione mais farinha de trigo para dar consistência. Modele pequenas bolinhas com as mãos. Em uma frigideira, aqueça o óleo em fogo médio. Frite os bolinhos de arroz até que estejam dourados e crocantes por fora. Retire com uma escumadeira e deixe escorrer em papel toalha. Sirva quente como petisco.",
+    "pathImagem": "https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/other/bolinho-de-arroz/main-header.jpg"
   },
   {
-  "nome": "Bolo de Caneca",
-  "categoria": "Sobremesa",
-  "descricao": "Um bolo rápido e prático, perfeito para saciar aquela vontade de doce em poucos minutos, preparado diretamente na caneca.",
-  "origem": "Mundial",
-  "ingredientes": [
-    {"nome": "Farinha de trigo", "quantidade": "4 colheres de sopa"},
-    {"nome": "Açúcar", "quantidade": "3 colheres de sopa"},
-    {"nome": "Cacau em pó", "quantidade": "2 colheres de sopa"},
-    {"nome": "Leite", "quantidade": "3 colheres de sopa"},
-    {"nome": "Óleo", "quantidade": "3 colheres de sopa"},
-    {"nome": "Fermento", "quantidade": "1/2 colher de chá"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Chocolate ", "quantidade": "A gosto"}
-  ],
-  "modoDePreparo": "Em uma caneca grande e própria para micro-ondas, misture a farinha de trigo, o açúcar, o cacau em pó e o fermento em pó. Adicione o leite e o óleo. Mexa bem até obter uma massa homogênea. Se desejar, adicione chocolate picado à massa. Leve ao micro-ondas em potência alta por aproximadamente 2 minutos. O tempo pode variar dependendo da potência do seu micro-ondas, então verifique a cada 30 segundos. O bolo estará pronto quando crescer e firmar. Deixe esfriar por alguns instantes e sirva ainda na caneca ou desenforme se desejar.",
-  "pathImagem": "data:image/jpeg;base64,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"
+    "nome": "Bolo de Caneca",
+    "categoria": "Sobremesa",
+    "descricao": "Um bolo rápido e prático, perfeito para saciar aquela vontade de doce em poucos minutos, preparado diretamente na caneca.",
+    "origem": "GB",
+    "ingredientes": [
+      {"nome": "Farinha de trigo", "quantidade": "4 colheres de sopa"},
+      {"nome": "Açúcar", "quantidade": "3 colheres de sopa"},
+      {"nome": "Cacau em pó", "quantidade": "2 colheres de sopa"},
+      {"nome": "Leite", "quantidade": "3 colheres de sopa"},
+      {"nome": "Óleo", "quantidade": "3 colheres de sopa"},
+      {"nome": "Fermento", "quantidade": "1/2 colher de chá"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Chocolate ", "quantidade": "A gosto"}
+    ],
+    "modoDePreparo": "Em uma caneca grande e própria para micro-ondas, misture a farinha de trigo, o açúcar, o cacau em pó e o fermento em pó. Adicione o leite e o óleo. Mexa bem até obter uma massa homogênea. Se desejar, adicione chocolate picado à massa. Leve ao micro-ondas em potência alta por aproximadamente 2 minutos. O tempo pode variar dependendo da potência do seu micro-ondas, então verifique a cada 30 segundos. O bolo estará pronto quando crescer e firmar. Deixe esfriar por alguns instantes e sirva ainda na caneca ou desenforme se desejar.",
+    "pathImagem": "data:image/jpeg;base64,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"
   },
   {
-  "nome": "Bolo de Cenoura com Cobertura de Chocolate",
-  "categoria": "Sobremesa",
-  "descricao": "Um bolo macio e saboroso feito com cenoura, coberto por uma deliciosa cobertura de chocolate que derrete na boca.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Cenoura", "quantidade": "3 unidades médias"},
-    {"nome": "Óleo", "quantidade": "1 xícara"},
-    {"nome": "Ovo", "quantidade": "4 unidades"},
-    {"nome": "Açúcar", "quantidade": "2 xícaras"},
-    {"nome": "Farinha de trigo", "quantidade": "2 xícaras"},
-    {"nome": "Fermento em pó", "quantidade": "1 colher de sopa"},
-    {"nome": "Sal", "quantidade": "1 pitada"},
-    {"nome": "Chocolate em pó", "quantidade": "4 colheres de sopa"},
-    {"nome": "Leite", "quantidade": "4 colheres de sopa"},
-    {"nome": "Manteiga", "quantidade": "2 colheres de sopa"}
-  ],
-  "modoDePreparo": "Preaqueça o forno a 180°C. Em um liquidificador, bata as cenouras descascadas e cortadas em pedaços pequenos, o óleo e os ovos até obter uma mistura homogênea. Em uma tigela, misture o açúcar, a farinha de trigo, o fermento em pó e o sal. Adicione a mistura do liquidificador aos ingredientes secos e mexa bem até incorporar todos os ingredientes. Despeje a massa em uma forma untada e enfarinhada. Asse em forno preaquecido por aproximadamente 40 minutos, ou até que ao enfiar um palito no centro do bolo, ele saia limpo. Enquanto o bolo assa, prepare a cobertura: em uma panela, misture o chocolate em pó, o leite e a manteiga. Leve ao fogo baixo, mexendo sempre, até que todos os ingredientes estejam bem incorporados e a mistura comece a engrossar. Retire do fogo e espere o bolo esfriar um pouco antes de cobrir com a calda de chocolate. Deixe esfriar completamente antes de servir.",
-  "pathImagem": "https://conteudo.imguol.com.br/c/entretenimento/9c/2021/06/17/bolo-de-cenoura-1623937712804_v2_900x506.jpg"
+    "nome": "Bolo de Cenoura com Cobertura de Chocolate",
+    "categoria": "Sobremesa",
+    "descricao": "Um bolo macio e saboroso feito com cenoura, coberto por uma deliciosa cobertura de chocolate que derrete na boca.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Cenoura", "quantidade": "3 unidades médias"},
+      {"nome": "Óleo", "quantidade": "1 xícara"},
+      {"nome": "Ovo", "quantidade": "4 unidades"},
+      {"nome": "Açúcar", "quantidade": "2 xícaras"},
+      {"nome": "Farinha de trigo", "quantidade": "2 xícaras"},
+      {"nome": "Fermento em pó", "quantidade": "1 colher de sopa"},
+      {"nome": "Sal", "quantidade": "1 pitada"},
+      {"nome": "Chocolate em pó", "quantidade": "4 colheres de sopa"},
+      {"nome": "Leite", "quantidade": "4 colheres de sopa"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"}
+    ],
+    "modoDePreparo": "Preaqueça o forno a 180°C. Em um liquidificador, bata as cenouras descascadas e cortadas em pedaços pequenos, o óleo e os ovos até obter uma mistura homogênea. Em uma tigela, misture o açúcar, a farinha de trigo, o fermento em pó e o sal. Adicione a mistura do liquidificador aos ingredientes secos e mexa bem até incorporar todos os ingredientes. Despeje a massa em uma forma untada e enfarinhada. Asse em forno preaquecido por aproximadamente 40 minutos, ou até que ao enfiar um palito no centro do bolo, ele saia limpo. Enquanto o bolo assa, prepare a cobertura: em uma panela, misture o chocolate em pó, o leite e a manteiga. Leve ao fogo baixo, mexendo sempre, até que todos os ingredientes estejam bem incorporados e a mistura comece a engrossar. Retire do fogo e espere o bolo esfriar um pouco antes de cobrir com a calda de chocolate. Deixe esfriar completamente antes de servir.",
+    "pathImagem": "https://conteudo.imguol.com.br/c/entretenimento/9c/2021/06/17/bolo-de-cenoura-1623937712804_v2_900x506.jpg"
   },
   {
     "nome": "Bolo de Chocolate",
@@ -180,23 +180,23 @@
     "pathImagem": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-chocolate-rapido-e-molhadinho-capa.png"
   },
   {
-  "nome": "Bolo de Fubá de Frigideira",
-  "categoria": "Sobremesa",
-  "descricao": "Um bolo simples e rápido de preparar, feito na frigideira, com sabor delicado de fubá e perfeito para um lanche da tarde.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Fubá", "quantidade": "1 xícara"},
-    {"nome": "Farinha de trigo", "quantidade": "1/2 xícara"},
-    {"nome": "Açúcar", "quantidade": "1 xícara"},
-    {"nome": "Leite", "quantidade": "1 xícara"},
-    {"nome": "Óleo", "quantidade": "1/4 de xícara"},
-    {"nome": "Ovo", "quantidade": "1 unidade"},
-    {"nome": "Fermento", "quantidade": "1 colher de sopa"},
-    {"nome": "Queijo", "quantidade": "2 colheres de sopa"},
-    {"nome": "Sal", "quantidade": "Uma pitada"}
-  ],
-  "modoDePreparo": "Em uma tigela, misture o fubá, a farinha de trigo, o açúcar, o fermento em pó e o sal. Adicione o leite, o óleo e o ovo, e misture bem até obter uma massa homogênea. Se desejar, adicione o queijo ralado à massa. Aqueça uma frigideira antiaderente em fogo médio. Despeje a massa na frigideira e espalhe de forma uniforme. Cozinhe por cerca de 10-15 minutos, até que o bolo esteja firme e dourado por baixo. Vire o bolo com cuidado e cozinhe por mais 5-10 minutos do outro lado. Retire da frigideira e deixe esfriar antes de servir.",
-  "pathImagem": "data:image/jpeg;base64,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"
+    "nome": "Bolo de Fubá de Frigideira",
+    "categoria": "Sobremesa",
+    "descricao": "Um bolo simples e rápido de preparar, feito na frigideira, com sabor delicado de fubá e perfeito para um lanche da tarde.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Fubá", "quantidade": "1 xícara"},
+      {"nome": "Farinha de trigo", "quantidade": "1/2 xícara"},
+      {"nome": "Açúcar", "quantidade": "1 xícara"},
+      {"nome": "Leite", "quantidade": "1 xícara"},
+      {"nome": "Óleo", "quantidade": "1/4 de xícara"},
+      {"nome": "Ovo", "quantidade": "1 unidade"},
+      {"nome": "Fermento", "quantidade": "1 colher de sopa"},
+      {"nome": "Queijo", "quantidade": "2 colheres de sopa"},
+      {"nome": "Sal", "quantidade": "Uma pitada"}
+    ],
+    "modoDePreparo": "Em uma tigela, misture o fubá, a farinha de trigo, o açúcar, o fermento em pó e o sal. Adicione o leite, o óleo e o ovo, e misture bem até obter uma massa homogênea. Se desejar, adicione o queijo ralado à massa. Aqueça uma frigideira antiaderente em fogo médio. Despeje a massa na frigideira e espalhe de forma uniforme. Cozinhe por cerca de 10-15 minutos, até que o bolo esteja firme e dourado por baixo. Vire o bolo com cuidado e cozinhe por mais 5-10 minutos do outro lado. Retire da frigideira e deixe esfriar antes de servir.",
+    "pathImagem": "data:image/jpeg;base64,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"
   },
   {
     "nome": "Bolo Pudim de Chocolate",
@@ -212,17 +212,17 @@
     "pathImagem": "https://i3.ytimg.com/vi/1bAQSqBacEk/maxresdefault.jpg"
   },
   {
-  "nome": "Brigadeiro de Panela",
-  "categoria": "Sobremesa",
-  "descricao": "Um doce tradicional brasileiro, feito com chocolate, leite condensado e manteiga, que derrete na boca e é perfeito para ser consumido diretamente da panela.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Leite condensado", "quantidade": "1 lata"},
-    {"nome": "Chocolate em pó", "quantidade": "4 colheres de sopa"},
-    {"nome": "Manteiga", "quantidade": "1 colher de sopa"}
-  ],
-  "modoDePreparo": "Em uma panela, coloque o leite condensado, o chocolate em pó e a manteiga. Leve ao fogo baixo, mexendo sempre com uma colher de pau ou silicone, até que a mistura comece a desgrudar do fundo da panela (ponto de brigadeiro). Isso deve levar cerca de 10 minutos. Desligue o fogo e continue mexendo por mais um minuto para que o brigadeiro termine de atingir o ponto. Sirva quente diretamente da panela.",
-  "pathImagem": "https://img.cybercook.com.br/receitas/602/brigadeiro-de-panela.jpeg"
+    "nome": "Brigadeiro de Panela",
+    "categoria": "Sobremesa",
+    "descricao": "Um doce tradicional brasileiro, feito com chocolate, leite condensado e manteiga, que derrete na boca e é perfeito para ser consumido diretamente da panela.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Leite condensado", "quantidade": "1 lata"},
+      {"nome": "Chocolate em pó", "quantidade": "4 colheres de sopa"},
+      {"nome": "Manteiga", "quantidade": "1 colher de sopa"}
+    ],
+    "modoDePreparo": "Em uma panela, coloque o leite condensado, o chocolate em pó e a manteiga. Leve ao fogo baixo, mexendo sempre com uma colher de pau ou silicone, até que a mistura comece a desgrudar do fundo da panela (ponto de brigadeiro). Isso deve levar cerca de 10 minutos. Desligue o fogo e continue mexendo por mais um minuto para que o brigadeiro termine de atingir o ponto. Sirva quente diretamente da panela.",
+    "pathImagem": "https://img.cybercook.com.br/receitas/602/brigadeiro-de-panela.jpeg"
   },
   {
     "nome": "Brownie",
@@ -230,37 +230,37 @@
     "descricao": "Um brownie delicioso, com uma textura densa e sabor intenso de chocolate.",
     "origem": "US",
     "ingredientes": [
-        {"nome": "Manteiga", "quantidade": "100 gramas"},
-        {"nome": "Açúcar", "quantidade": "1 xícara"},
-        {"nome": "Ovos", "quantidade": "2 unidades"},
-        {"nome": "Chocolate Meio Amargo", "quantidade": "100 gramas"},
-        {"nome": "Farinha de Trigo", "quantidade": "1/2 xícara"},
-        {"nome": "Cacau em Pó", "quantidade": "1/4 xícara"},
-        {"nome": "Sal", "quantidade": "1/4 colher de chá"},
-        {"nome": "Extrato de Baunilha", "quantidade": "1 colher de chá"}
+      {"nome": "Manteiga", "quantidade": "100 gramas"},
+      {"nome": "Açúcar", "quantidade": "1 xícara"},
+      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Chocolate Meio Amargo", "quantidade": "100 gramas"},
+      {"nome": "Farinha de Trigo", "quantidade": "1/2 xícara"},
+      {"nome": "Cacau em Pó", "quantidade": "1/4 xícara"},
+      {"nome": "Sal", "quantidade": "1/4 colher de chá"},
+      {"nome": "Extrato de Baunilha", "quantidade": "1 colher de chá"}
     ],
     "modoDePreparo": "Preaqueça o forno a 180°C e unte uma forma de aproximadamente 20x20 cm. Derreta a manteiga e o chocolate meio amargo em banho-maria ou no micro-ondas, mexendo até ficar homogêneo. Em uma tigela grande, misture o açúcar com a mistura de chocolate derretido. Adicione os ovos um a um, batendo bem após cada adição. Acrescente o extrato de baunilha. Em outra tigela, peneire a farinha, o cacau em pó e o sal. Adicione os ingredientes secos à mistura de chocolate e misture até incorporar. Despeje a massa na forma preparada e alise a superfície. Asse por cerca de 20-25 minutos, ou até que um palito inserido no centro saia com algumas migalhas úmidas. Deixe esfriar antes de cortar em quadrados e servir.",
     "pathImagem": "https://s2-receitas.glbimg.com/yaRHKYhnNPkAZdN_4wk83Q9Y2VQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/y/H/ZSIYRzRsmXIb73mnAP0Q/brownie-de-chocolate.jpg"
   },
   {
-  "nome": "Caldo de Frango",
-  "categoria": "Sopa",
-  "descricao": "Um caldo reconfortante feito com pedaços de frango, legumes, temperos e ervas, ideal para dias frios ou como entrada em uma refeição.",
-  "origem": "Mundial",
-  "ingredientes": [
-    {"nome": "Frango", "quantidade": "500g"},
-    {"nome": "Cenoura", "quantidade": "2 unidades médias"},
-    {"nome": "Batata", "quantidade": "2 unidades médias"},
-    {"nome": "Cebola", "quantidade": "1 unidade grande"},
-    {"nome": "Alho", "quantidade": "3 dentes"},
-    {"nome": "Tomate", "quantidade": "1 unidade média"},
-    {"nome": "Salsinha", "quantidade": "A gosto"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Pimenta", "quantidade": "A gosto"},
-    {"nome": "Água", "quantidade": "2 litros"}
-  ],
-  "modoDePreparo": "Em uma panela grande, coloque o peito de frango e cubra com água. Leve ao fogo médio e cozinhe por cerca de 20 minutos, retirando a espuma que se forma na superfície. Adicione a cenoura, a batata, a cebola, o alho, o tomate, a salsinha, o sal e a pimenta do reino. Cozinhe por mais 30 minutos ou até que os legumes e o frango estejam completamente cozidos e macios. Retire o frango e desfie-o em pedaços menores. Volte o frango desfiado para a panela e cozinhe por mais alguns minutos para que os sabores se integrem. Retire a folha de louro antes de servir. Sirva quente.",
-  "pathImagem": "https://cantinhodereceitas.com/wp-content/uploads/2024/04/maxresdefault-36.jpg"
+    "nome": "Caldo de Frango",
+    "categoria": "Sopa",
+    "descricao": "Um caldo reconfortante feito com pedaços de frango, legumes, temperos e ervas, ideal para dias frios ou como entrada em uma refeição.",
+    "origem": "CN",
+    "ingredientes": [
+      {"nome": "Frango", "quantidade": "500g"},
+      {"nome": "Cenoura", "quantidade": "2 unidades médias"},
+      {"nome": "Batata", "quantidade": "2 unidades médias"},
+      {"nome": "Cebola", "quantidade": "1 unidade grande"},
+      {"nome": "Alho", "quantidade": "3 dentes"},
+      {"nome": "Tomate", "quantidade": "1 unidade média"},
+      {"nome": "Salsinha", "quantidade": "A gosto"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Água", "quantidade": "2 litros"}
+    ],
+    "modoDePreparo": "Em uma panela grande, coloque o peito de frango e cubra com água. Leve ao fogo médio e cozinhe por cerca de 20 minutos, retirando a espuma que se forma na superfície. Adicione a cenoura, a batata, a cebola, o alho, o tomate, a salsinha, o sal e a pimenta do reino. Cozinhe por mais 30 minutos ou até que os legumes e o frango estejam completamente cozidos e macios. Retire o frango e desfie-o em pedaços menores. Volte o frango desfiado para a panela e cozinhe por mais alguns minutos para que os sabores se integrem. Retire a folha de louro antes de servir. Sirva quente.",
+    "pathImagem": "https://cantinhodereceitas.com/wp-content/uploads/2024/04/maxresdefault-36.jpg"
   },
   {
     "nome": "Chocolate Quente",
@@ -268,12 +268,12 @@
     "descricao": "Uma bebida quente e reconfortante, perfeita para dias frios e ocasiões especiais.",
     "origem": "BR",
     "ingredientes": [
-        {"nome": "Leite", "quantidade": "2 xícaras"},
-        {"nome": "Chocolate em Pó", "quantidade": "2 colheres de sopa"},
-        {"nome": "Açúcar", "quantidade": "2 colheres de sopa"},
-        {"nome": "Amido de Milho", "quantidade": "1 colher de sopa"},
-        {"nome": "Água", "quantidade": "1/4 xícara"},
-        {"nome": "Essência de Baunilha", "quantidade": "1/2 colher de chá"}
+      {"nome": "Leite", "quantidade": "2 xícaras"},
+      {"nome": "Chocolate em Pó", "quantidade": "2 colheres de sopa"},
+      {"nome": "Açúcar", "quantidade": "2 colheres de sopa"},
+      {"nome": "Amido de Milho", "quantidade": "1 colher de sopa"},
+      {"nome": "Água", "quantidade": "1/4 xícara"},
+      {"nome": "Essência de Baunilha", "quantidade": "1/2 colher de chá"}
     ],
     "modoDePreparo": "Em uma panela, misture o chocolate em pó, o açúcar e o amido de milho. Adicione a água e mexa até formar uma pasta homogênea. Leve ao fogo baixo, mexendo sempre, até começar a soltar bolhas. Adicione o leite e continue mexendo até a mistura começar a ferver e engrossar. Retire do fogo e adicione a essência de baunilha. Sirva quente.",
     "pathImagem": "https://static.stealthelook.com.br/wp-content/uploads/2023/05/chocolate-quente-20230503172007.jpg"
@@ -329,19 +329,19 @@
     "pathImagem": "https://static.itdg.com.br/images/1200-630/3f637062e5bf7288c879d207055138ca/352520-original.jpg"
   },
   {
-  "nome": "Creme de Morango",
-  "categoria": "Sobremesa",
-  "descricao": "Um creme suave e delicado, com sabor intenso de morangos frescos, perfeito para ser servido gelado como sobremesa.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Morango", "quantidade": "500g"},
-    {"nome": "Leite condensado", "quantidade": "1 lata"},
-    {"nome": "Creme de leite", "quantidade": "1 lata"},
-    {"nome": "Leite", "quantidade": "1 xícara"},
-    {"nome": "Açúcar", "quantidade": "A gosto"}
-  ],
-  "modoDePreparo": "Higienize os morangos, retire os talos e corte-os em pedaços. No liquidificador, bata os morangos com o leite condensado, o creme de leite e o leite até obter um creme homogêneo. Prove e ajuste o açúcar, se necessário. Transfira o creme para uma tigela ou para taças individuais. Leve à geladeira por pelo menos 4 horas, ou até que o creme esteja firme. Sirva gelado.",
-  "pathImagem": "https://img.freepik.com/fotos-premium/milkshake-fresco-com-morangos-em-um-fundo-preto-bebida-de-verao-com-um-canudo-em-um-copo-lugar-para-texto_183793-1074.jpg"
+    "nome": "Creme de Morango",
+    "categoria": "Sobremesa",
+    "descricao": "Um creme suave e delicado, com sabor intenso de morangos frescos, perfeito para ser servido gelado como sobremesa.",
+    "origem": "GB",
+    "ingredientes": [
+      {"nome": "Morango", "quantidade": "500g"},
+      {"nome": "Leite condensado", "quantidade": "1 lata"},
+      {"nome": "Creme de leite", "quantidade": "1 lata"},
+      {"nome": "Leite", "quantidade": "1 xícara"},
+      {"nome": "Açúcar", "quantidade": "A gosto"}
+    ],
+    "modoDePreparo": "Higienize os morangos, retire os talos e corte-os em pedaços. No liquidificador, bata os morangos com o leite condensado, o creme de leite e o leite até obter um creme homogêneo. Prove e ajuste o açúcar, se necessário. Transfira o creme para uma tigela ou para taças individuais. Leve à geladeira por pelo menos 4 horas, ou até que o creme esteja firme. Sirva gelado.",
+    "pathImagem": "https://img.freepik.com/fotos-premium/milkshake-fresco-com-morangos-em-um-fundo-preto-bebida-de-verao-com-um-canudo-em-um-copo-lugar-para-texto_183793-1074.jpg"
   },
   {
     "nome": "Farofa de Banana",
@@ -349,36 +349,36 @@
     "descricao": "Uma farofa doce e salgada com banana, ideal para dar um toque especial aos pratos.",
     "origem": "BR",
     "ingredientes": [
-        {"nome": "Banana", "quantidade": "3 unidades"},
-        {"nome": "Farinha de mandioca", "quantidade": "2 xícaras"},
-        {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-        {"nome": "Cebola", "quantidade": "1 unidade média"},
-        {"nome": "Alho", "quantidade": "2 dentes"},
-        {"nome": "Sal", "quantidade": "A gosto"},
-        {"nome": "Pimenta", "quantidade": "A gosto"}
+      {"nome": "Banana", "quantidade": "3 unidades"},
+      {"nome": "Farinha de mandioca", "quantidade": "2 xícaras"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Cebola", "quantidade": "1 unidade média"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"}
     ],
     "modoDePreparo": "Descasque e corte as bananas em rodelas. Em uma frigideira, derreta a manteiga e refogue a cebola e o alho até ficarem dourados. Adicione as bananas e cozinhe até começarem a amolecer. Acrescente a farinha de mandioca e misture bem, cozinhando até a farofa ficar levemente crocante. Tempere com sal e pimenta-do-reino a gosto.",
     "pathImagem": "https://s2-receitas.glbimg.com/HpGbKpzLz2ahG-x1OByI22QbNYU=/0x0:984x763/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/n/o/bA4RrITKODbAiOErlsLQ/farofa-de-banana-da-terra.jpg"
   },
   {
-  "nome": "Feijão Tropeiro",
-  "categoria": "Prato Principal",
-  "descricao": "Um prato típico da culinária brasileira, feito com feijão cozido, linguiça calabresa, bacon, ovos e farinha de mandioca, cheio de sabores e texturas.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Feijão carioca cozido", "quantidade": "2 xícaras"},
-    {"nome": "Linguiça calabresa", "quantidade": "200g"},
-    {"nome": "Bacon em cubos", "quantidade": "100g"},
-    {"nome": "Ovo", "quantidade": "2 unidades"},
-    {"nome": "Cebola", "quantidade": "1 unidade grande"},
-    {"nome": "Alho", "quantidade": "2 dentes"},
-    {"nome": "Farinha de mandioca", "quantidade": "1 xícara"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Pimenta do reino", "quantidade": "A gosto"},
-    {"nome": "Óleo ou azeite", "quantidade": "Para refogar"}
-  ],
-  "modoDePreparo": "Em uma frigideira grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione o bacon em cubos e a linguiça calabresa cortada em rodelas. Frite até que estejam dourados e crocantes. Adicione a cebola e o alho picados e refogue até que estejam dourados. Adicione os ovos batidos e mexa bem até que estejam cozidos e misturados aos outros ingredientes. Em seguida, adicione o feijão carioca cozido e escorrido, misturando bem. Acrescente a farinha de mandioca aos poucos, mexendo sempre, até que esteja bem incorporada e o feijão esteja envolvido pela farinha. Tempere com sal e pimenta do reino a gosto. Sirva quente.",
-  "pathImagem": "https://j6t2y8j5.rocketcdn.me/wp-content/uploads/2023/02/2-2.png"
+    "nome": "Feijão Tropeiro",
+    "categoria": "Prato Principal",
+    "descricao": "Um prato típico da culinária brasileira, feito com feijão cozido, linguiça calabresa, bacon, ovos e farinha de mandioca, cheio de sabores e texturas.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Feijão carioca cozido", "quantidade": "2 xícaras"},
+      {"nome": "Linguiça calabresa", "quantidade": "200g"},
+      {"nome": "Bacon em cubos", "quantidade": "100g"},
+      {"nome": "Ovo", "quantidade": "2 unidades"},
+      {"nome": "Cebola", "quantidade": "1 unidade grande"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Farinha de mandioca", "quantidade": "1 xícara"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta do reino", "quantidade": "A gosto"},
+      {"nome": "Óleo ou azeite", "quantidade": "Para refogar"}
+    ],
+    "modoDePreparo": "Em uma frigideira grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione o bacon em cubos e a linguiça calabresa cortada em rodelas. Frite até que estejam dourados e crocantes. Adicione a cebola e o alho picados e refogue até que estejam dourados. Adicione os ovos batidos e mexa bem até que estejam cozidos e misturados aos outros ingredientes. Em seguida, adicione o feijão carioca cozido e escorrido, misturando bem. Acrescente a farinha de mandioca aos poucos, mexendo sempre, até que esteja bem incorporada e o feijão esteja envolvido pela farinha. Tempere com sal e pimenta do reino a gosto. Sirva quente.",
+    "pathImagem": "https://j6t2y8j5.rocketcdn.me/wp-content/uploads/2023/02/2-2.png"
   },
   {
     "nome": "Feijoada",
@@ -433,24 +433,42 @@
     "pathImagem": "https://www.receiteria.com.br/wp-content/uploads/frango-grelhado.jpg"
   },
   {
-  "nome": "Fricassê de Frango",
-  "categoria": "Prato Principal",
-  "descricao": "Um prato cremoso e reconfortante, feito com frango desfiado, milho verde, requeijão e cobertura de batata palha.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Frango", "quantidade": "500g"},
-    {"nome": "Milho verde", "quantidade": "1 lata"},
-    {"nome": "Requeijão", "quantidade": "1 xícara"},
-    {"nome": "Creme de leite", "quantidade": "1 lata"},
-    {"nome": "Cebola", "quantidade": "1 unidade"},
-    {"nome": "Alho", "quantidade": "2 dentes"},
-    {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Pimenta", "quantidade": "A gosto"},
-    {"nome": "Batata palha", "quantidade": "Para cobertura"}
-  ],
-  "modoDePreparo": "Refogue a cebola e o alho no azeite até dourarem. Adicione o frango desfiado e refogue por alguns minutos. Acrescente o milho verde escorrido, o requeijão e o creme de leite. Tempere com sal e pimenta do reino a gosto e cozinhe por mais alguns minutos, até obter um molho cremoso. Transfira para um refratário untado, cubra com batata palha e leve ao forno preaquecido a 180°C por cerca de 20 minutos, ou até que a superfície esteja dourada e borbulhante.",
-  "pathImagem": "https://i.ytimg.com/vi/DOtr68AHGE8/maxresdefault.jpg"
+    "nome": "Fricassê de Frango",
+    "categoria": "Prato Principal",
+    "descricao": "Um prato cremoso e reconfortante, feito com frango desfiado, milho verde, requeijão e cobertura de batata palha.",
+    "origem": "FR",
+    "ingredientes": [
+      {"nome": "Frango", "quantidade": "500g"},
+      {"nome": "Milho verde", "quantidade": "1 lata"},
+      {"nome": "Requeijão", "quantidade": "1 xícara"},
+      {"nome": "Creme de leite", "quantidade": "1 lata"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Batata palha", "quantidade": "Para cobertura"}
+    ],
+    "modoDePreparo": "Refogue a cebola e o alho no azeite até dourarem. Adicione o frango desfiado e refogue por alguns minutos. Acrescente o milho verde escorrido, o requeijão e o creme de leite. Tempere com sal e pimenta do reino a gosto e cozinhe por mais alguns minutos, até obter um molho cremoso. Transfira para um refratário untado, cubra com batata palha e leve ao forno preaquecido a 180°C por cerca de 20 minutos, ou até que a superfície esteja dourada e borbulhante.",
+    "pathImagem": "https://i.ytimg.com/vi/DOtr68AHGE8/maxresdefault.jpg"
+  },
+  {
+    "nome": "Guacamole",
+    "categoria": "Acompanhamento",
+    "descricao": "Guacamole é uma salsa mexicana feita com abacates maduros, ideal para acompanhar tacos, nachos ou servir como dip.",
+    "origem": "MX",
+    "ingredientes": [
+      {"nome": "Abacate", "quantidade": "3 unidades"},
+      {"nome": "Tomate", "quantidade": "1 unidade, picado"},
+      {"nome": "Cebola", "quantidade": "1/4 de unidade, picada"},
+      {"nome": "Coentro fresco", "quantidade": "1/4 de xícara, picado"},
+      {"nome": "Suco de limão", "quantidade": "1 limão"},
+      {"nome": "Pimenta Jalapeño", "quantidade": "1 unidade, picada (opcional)"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Retire a polpa dos abacates e coloque em uma tigela. Amasse com um garfo até obter a consistência desejada. Adicione o tomate, a cebola, o coentro, o suco de limão e a pimenta Jalapeño, se estiver usando. Tempere com sal e pimenta-do-reino a gosto. Misture bem e sirva imediatamente.",
+    "pathImagem": "https://www.lecreuset.com.br/dw/image/v2/BDRT_PRD/on/demandware.static/-/Sites-le-creuset-br-master/default/dwf2e3d569/images/receita-guacamole.png?sw=650&sh=650&sm=fit"
   },
   {
     "nome": "Macarrão Alho e Óleo",
@@ -458,31 +476,78 @@
     "descricao": "Um prato simples e rápido, mas cheio de sabor, feito com macarrão, alho e azeite.",
     "origem": "IT",
     "ingredientes": [
-        {"nome": "Macarrão", "quantidade": "250 gramas"},
-        {"nome": "Alho", "quantidade": "4 dentes"},
-        {"nome": "Azeite", "quantidade": "1/4 xícara"},
-        {"nome": "Pimenta Calabresa", "quantidade": "1 colher de chá"},
-        {"nome": "Salsinha", "quantidade": "A gosto"},
-        {"nome": "Sal", "quantidade": "A gosto"}
+      {"nome": "Macarrão", "quantidade": "250 gramas"},
+      {"nome": "Alho", "quantidade": "4 dentes"},
+      {"nome": "Azeite", "quantidade": "1/4 xícara"},
+      {"nome": "Pimenta Calabresa", "quantidade": "1 colher de chá"},
+      {"nome": "Salsinha", "quantidade": "A gosto"},
+      {"nome": "Sal", "quantidade": "A gosto"}
     ],
     "modoDePreparo": "Cozinhe o macarrão em água salgada conforme as instruções da embalagem até ficar al dente. Escorra e reserve. Enquanto o macarrão cozinha, fatie o alho em lâminas finas. Em uma frigideira grande, aqueça o azeite em fogo médio. Adicione o alho e frite até começar a dourar, mas cuidado para não queimar. Adicione a pimenta calabresa e mexa por mais alguns segundos. Misture o macarrão cozido na frigideira, envolvendo bem com o alho e o azeite. Ajuste o sal e adicione a salsinha picada. Sirva quente.",
     "pathImagem": "https://cdn5.soreceitasfaceis.com/wp-content/uploads/2015/07/macarrao-alho-oleo.jpg"
-},
+  },
   {
-  "nome": "Mousse de Maracujá",
-  "categoria": "Sobremesa",
-  "descricao": "Uma sobremesa refrescante e cremosa, com o sabor marcante e ácido do maracujá, perfeita para qualquer ocasião.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Maracujá", "quantidade": "1 xícara"},
-    {"nome": "Leite condensado", "quantidade": "1 lata"},
-    {"nome": "Creme de leite", "quantidade": "1 lata"},
-    {"nome": "Gelatina sem sabor", "quantidade": "1 envelope"},
-    {"nome": "Água", "quantidade": "1/2 xícara"},
-    {"nome": "Açúcar", "quantidade": "A gosto"}
-  ],
-  "modoDePreparo": "Em um recipiente, hidrate a gelatina na água conforme as instruções da embalagem e reserve. No liquidificador, bata a polpa de maracujá junto com o leite condensado e o creme de leite até obter um creme homogêneo. Adicione a gelatina hidratada e bata novamente até incorporar bem. Prove e ajuste o açúcar, se necessário. Transfira o mousse para taças individuais ou para uma travessa única. Caso seja queira, adicione sobre o mousse mais polpa de maracujá. Leve à geladeira por pelo menos 4 horas, ou até que o mousse esteja firme. Sirva gelado. ",
-  "pathImagem": "https://s2-g1.glbimg.com/i8RCSdAhgEdeT1jAEgtFX34Za10=/0x0:518x335/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/7/E/wbSXcjQUmsK82Cf0eeIA/mousse-de-maracuja.jpg"
+    "nome": "Macarrão de Panela",
+    "categoria": "Prato Principal",
+    "descricao": "Um prato prático e delicioso, onde o macarrão é cozido diretamente na panela com molho e ingredientes adicionais, ideal para uma refeição rápida e saborosa.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Macarrão", "quantidade": "250g"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Alho", "quantidade": "3 dentes"},
+      {"nome": "Tomates", "quantidade": "4 unidades"},
+      {"nome": "Pimentão", "quantidade": "1 unidade"},
+      {"nome": "Frango desfiado", "quantidade": "200g"},
+      {"nome": "Caldo de galinha", "quantidade": "1 cubo"},
+      {"nome": "Água", "quantidade": "500ml"},
+      {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
+      {"nome": "Salsinha", "quantidade": "1 maço"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Queijo ralado", "quantidade": "100g (opcional)"}
+    ],
+    "modoDePreparo": "Aqueça o azeite em uma panela grande e refogue a cebola e o alho picados até ficarem dourados. Adicione os tomates picados e o pimentão cortado em tiras, e cozinhe por alguns minutos até os vegetais amolecerem. Junte o frango desfiado e o caldo de galinha, misturando bem. Acrescente a água e deixe ferver. Adicione o macarrão e cozinhe até que esteja al dente e o líquido tenha reduzido, mexendo ocasionalmente. Ajuste o sal e a pimenta-do-reino a gosto. Finalize com salsinha picada e, se desejar, polvilhe com queijo ralado antes de servir.",
+    "pathImagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/macarrao-panela-pressao-presunto-queijo-768x619.jpg"
+  },
+  {
+    "nome": "Moqueca de Peixe",
+    "categoria": "Prato Principal",
+    "descricao": "Prato tradicional da culinária brasileira, especialmente do Espírito Santo e da Bahia, feito com peixe, leite de coco e temperos.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Peixe", "quantidade": "1 kg"},
+      {"nome": "Suco de limão", "quantidade": "2 colheres de sopa"},
+      {"nome": "Alho", "quantidade": "4 dentes"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Tomates", "quantidade": "3 unidades"},
+      {"nome": "Pimentão verde", "quantidade": "1 unidade"},
+      {"nome": "Pimentão vermelho", "quantidade": "1 unidade"},
+      {"nome": "Leite de coco", "quantidade": "400 ml"},
+      {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
+      {"nome": "Coentro", "quantidade": "1 maço"},
+      {"nome": "Salsinha", "quantidade": "1 maço"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Pimenta malagueta", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Tempere o peixe com suco de limão, sal e pimenta-do-reino. Deixe marinar por 30 minutos. Em uma panela grande, aqueça o azeite e refogue o alho e a cebola até ficarem dourados. Adicione os tomates picados e os pimentões cortados em tiras e cozinhe por alguns minutos. Acrescente o peixe à panela e cozinhe até começar a ficar firme. Adicione o leite de coco e deixe cozinhar em fogo baixo por aproximadamente 20 minutos, ou até o peixe estar completamente cozido. Finalize com coentro e salsinha picados e ajuste o tempero com sal e pimenta malagueta a gosto. Sirva com arroz branco e farofa.",
+    "pathImagem": "https://cdn0.tudoreceitas.com/pt/posts/0/8/9/moqueca_de_peixe_baiana_9980_orig.jpg"
+  },
+  {
+    "nome": "Mousse de Maracujá",
+    "categoria": "Sobremesa",
+    "descricao": "Uma sobremesa refrescante e cremosa, com o sabor marcante e ácido do maracujá, perfeita para qualquer ocasião.",
+    "origem": "FR",
+    "ingredientes": [
+      {"nome": "Maracujá", "quantidade": "1 xícara"},
+      {"nome": "Leite condensado", "quantidade": "1 lata"},
+      {"nome": "Creme de leite", "quantidade": "1 lata"},
+      {"nome": "Gelatina sem sabor", "quantidade": "1 envelope"},
+      {"nome": "Água", "quantidade": "1/2 xícara"},
+      {"nome": "Açúcar", "quantidade": "A gosto"}
+    ],
+    "modoDePreparo": "Em um recipiente, hidrate a gelatina na água conforme as instruções da embalagem e reserve. No liquidificador, bata a polpa de maracujá junto com o leite condensado e o creme de leite até obter um creme homogêneo. Adicione a gelatina hidratada e bata novamente até incorporar bem. Prove e ajuste o açúcar, se necessário. Transfira o mousse para taças individuais ou para uma travessa única. Caso seja queira, adicione sobre o mousse mais polpa de maracujá. Leve à geladeira por pelo menos 4 horas, ou até que o mousse esteja firme. Sirva gelado. ",
+    "pathImagem": "https://s2-g1.glbimg.com/i8RCSdAhgEdeT1jAEgtFX34Za10=/0x0:518x335/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/7/E/wbSXcjQUmsK82Cf0eeIA/mousse-de-maracuja.jpg"
   },
   {
     "nome": "Oden",
@@ -533,19 +598,42 @@
     "pathImagem": "https://casbri.com.br/wp-content/uploads/2020/08/dfdsfd-scaled.jpg"
   },
   {
+    "nome": "Panetone",
+    "categoria": "Sobremesa",
+    "descricao": "Tradicional bolo natalino italiano, conhecido por sua textura leve e sabor doce, repleto de frutas cristalizadas e passas.",
+    "origem": "IT",
+    "ingredientes": [
+      {"nome": "Farinha de trigo", "quantidade": "500g"},
+      {"nome": "Açúcar", "quantidade": "150g"},
+      {"nome": "Leite", "quantidade": "200ml"},
+      {"nome": "Manteiga", "quantidade": "100g"},
+      {"nome": "Ovos", "quantidade": "4 unidades"},
+      {"nome": "Fermento em pó", "quantidade": "10g"},
+      {"nome": "Essência de baunilha", "quantidade": "1 colher de chá"},
+      {"nome": "Raspas de laranja", "quantidade": "1 colher de sopa"},
+      {"nome": "Raspas de limão", "quantidade": "1 colher de sopa"},
+      {"nome": "Frutas cristalizadas", "quantidade": "100g"},
+      {"nome": "Passas", "quantidade": "100g"},
+      {"nome": "Sal", "quantidade": "1/2 colher de chá"},
+      {"nome": "Açúcar de confeiteiro", "quantidade": "Para polvilhar"}
+    ],
+    "modoDePreparo": "Em uma tigela pequena, misture o fermento em pó com a farinha e reserve. Em uma tigela grande, misture o açúcar e o sal. Faça um buraco no centro da mistura e adicione os ovos, a manteiga derretida, a essência de baunilha e as raspas de laranja e limão. Misture bem até formar uma massa homogênea. Adicione a mistura de farinha e fermento e amasse por cerca de 10 minutos até a massa ficar lisa e elástica. Deixe a massa descansar em um lugar aquecido por aproximadamente 1 hora ou até dobrar de volume. Depois de descansar, adicione as frutas cristalizadas e as passas, misturando bem. Modele a massa em formato de panetone e coloque em uma forma para panetone. Deixe descansar por mais 30 minutos. Preaqueça o forno a 180°C e asse o panetone por cerca de 40-50 minutos, ou até dourar e passar no teste do palito. Deixe esfriar e polvilhe com açúcar de confeiteiro antes de servir.",
+    "pathImagem": "https://d5gag3xtge2og.cloudfront.net/producao/34204872/G/panetone_1.jpg"
+  },
+  {
     "nome": "Pão de Batata",
     "categoria": "Pão",
     "descricao": "Um pão macio e saboroso feito com batatas, ideal para acompanhar refeições ou para ser consumido como lanche.",
     "origem": "BR",
     "ingredientes": [
-        {"nome": "Batatas", "quantidade": "3 médias"},
-        {"nome": "Farinha de Trigo", "quantidade": "4 xícaras"},
-        {"nome": "Fermento Biológico Seco", "quantidade": "1 envelope (10 gramas)"},
-        {"nome": "Açúcar", "quantidade": "1 colher de sopa"},
-        {"nome": "Sal", "quantidade": "1 colher de chá"},
-        {"nome": "Ovos", "quantidade": "1 unidade"},
-        {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-        {"nome": "Leite", "quantidade": "1/2 xícara"}
+      {"nome": "Batatas", "quantidade": "3 médias"},
+      {"nome": "Farinha de Trigo", "quantidade": "4 xícaras"},
+      {"nome": "Fermento Biológico Seco", "quantidade": "1 envelope (10 gramas)"},
+      {"nome": "Açúcar", "quantidade": "1 colher de sopa"},
+      {"nome": "Sal", "quantidade": "1 colher de chá"},
+      {"nome": "Ovos", "quantidade": "1 unidade"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Leite", "quantidade": "1/2 xícara"}
     ],
     "modoDePreparo": "Descasque e cozinhe as batatas em água salgada até ficarem macias. Escorra e passe pelo espremedor ou amasse bem. Em uma tigela grande, misture a farinha, o fermento, o açúcar e o sal. Faça um buraco no centro e adicione a batata amassada, o ovo, a manteiga derretida e o leite. Misture até formar uma massa. Sove a massa por cerca de 10 minutos, até ficar lisa e elástica. Cubra com um pano e deixe crescer em um lugar morno por cerca de 1 hora, ou até dobrar de volume. Modele o pão e coloque em uma forma untada. Pré-aqueça o forno a 180°C e asse por aproximadamente 30-35 minutos, ou até que o pão esteja dourado e soando oco quando batido na parte inferior. Deixe esfriar antes de servir.",
     "pathImagem": "https://togocongelados.com.br/wp-content/uploads/2022/05/pao-de-batata-togo.jpg"
@@ -556,11 +644,11 @@
     "descricao": "Um doce simples e delicioso, que combina brigadeiro com pedaços de biscoito, perfeito para um lanche ou sobremesa.",
     "origem": "BR",
     "ingredientes": [
-        {"nome": "Leite Condensado", "quantidade": "1 lata"},
-        {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-        {"nome": "Chocolate em Pó", "quantidade": "4 colheres de sopa"},
-        {"nome": "Biscoito Maisena", "quantidade": "200 gramas"},
-        {"nome": "Açúcar", "quantidade": "1/2 xícara"}
+      {"nome": "Leite Condensado", "quantidade": "1 lata"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Chocolate em Pó", "quantidade": "4 colheres de sopa"},
+      {"nome": "Biscoito Maisena", "quantidade": "200 gramas"},
+      {"nome": "Açúcar", "quantidade": "1/2 xícara"}
     ],
     "modoDePreparo": "Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó. Cozinhe em fogo médio, mexendo sempre, até começar a desgrudar do fundo da panela (ponto de brigadeiro). Quebre os biscoitos em pedaços pequenos e adicione ao brigadeiro ainda quente, misturando bem. Despeje a mistura em uma forma untada e espalhe de forma uniforme. Deixe esfriar completamente e corte em quadrados. Passe os pedaços no açúcar cristal antes de servir, se desejar.",
     "pathImagem": "https://www.sabornamesa.com.br/media/k2/items/cache/a6e4d9622a775d7eed800918154a7577_XL.jpg"
@@ -600,36 +688,36 @@
     "pathImagem": "https://s2-receitas.glbimg.com/PtzMuBR81Igyq2qpLIjVsVyyi9w=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/e/M/A3f4nWTt6A8VBSHOVqdw/pao-de-queijo-receita.jpg"
   },
   {
-  "nome": "Pavê de Sonho de Valsa",
-  "categoria": "Sobremesa",
-  "descricao": "Deliciosa sobremesa feita com biscoitos tipo champanhe, creme de chocolate e bombons Sonho de Valsa.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Biscoitos tipo champanhe", "quantidade": "1 pacote"},
-    {"nome": "Leite", "quantidade": "500ml"},
-    {"nome": "Açúcar", "quantidade": "150g"},
-    {"nome": "Amido de milho", "quantidade": "2 colheres de sopa"},
-    {"nome": "Chocolate em pó", "quantidade": "4 colheres de sopa"},
-    {"nome": "Creme de leite", "quantidade": "1 lata"},
-    {"nome": "Bombons Sonho de Valsa", "quantidade": "10 unidades"},
-    {"nome": "Leite condensado", "quantidade": "1 lata"}
-  ],
-  "modoDePreparo": "Em uma panela, dissolva o amido de milho no leite. Adicione o açúcar e o chocolate em pó, e leve ao fogo médio até engrossar. Desligue o fogo e misture o creme de leite. Em um refratário, faça camadas alternadas de biscoitos champanhe umedecidos no leite e creme de chocolate. Finalize com uma camada de creme e decore com os bombons Sonho de Valsa picados. Leve à geladeira por algumas horas antes de servir.",
-  "pathImagem": "https://i0.wp.com/www.essenciastudio.com.br/wp-content/uploads/2024/01/pave-de-sonho-de-valsa-2-1.jpg?fit=1600%2C817&ssl=1"
+    "nome": "Pavê de Sonho de Valsa",
+    "categoria": "Sobremesa",
+    "descricao": "Deliciosa sobremesa feita com biscoitos tipo champanhe, creme de chocolate e bombons Sonho de Valsa.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Biscoitos tipo champanhe", "quantidade": "1 pacote"},
+      {"nome": "Leite", "quantidade": "500ml"},
+      {"nome": "Açúcar", "quantidade": "150g"},
+      {"nome": "Amido de milho", "quantidade": "2 colheres de sopa"},
+      {"nome": "Chocolate em pó", "quantidade": "4 colheres de sopa"},
+      {"nome": "Creme de leite", "quantidade": "1 lata"},
+      {"nome": "Bombons Sonho de Valsa", "quantidade": "10 unidades"},
+      {"nome": "Leite condensado", "quantidade": "1 lata"}
+    ],
+    "modoDePreparo": "Em uma panela, dissolva o amido de milho no leite. Adicione o açúcar e o chocolate em pó, e leve ao fogo médio até engrossar. Desligue o fogo e misture o creme de leite. Em um refratário, faça camadas alternadas de biscoitos champanhe umedecidos no leite e creme de chocolate. Finalize com uma camada de creme e decore com os bombons Sonho de Valsa picados. Leve à geladeira por algumas horas antes de servir.",
+    "pathImagem": "https://i0.wp.com/www.essenciastudio.com.br/wp-content/uploads/2024/01/pave-de-sonho-de-valsa-2-1.jpg?fit=1600%2C817&ssl=1"
   },
   {
-  "nome": "Pipoca com Leite Ninho",
-  "categoria": "Sobremesa",
-  "descricao": "Uma versão irresistível de pipoca coberta com uma camada cremosa de Leite Ninho, ideal para os amantes de doce.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Milho de pipoca", "quantidade": "1/2 xícara"},
-    {"nome": "Óleo de milho", "quantidade": "2 colheres de sopa"},
-    {"nome": "Açúcar", "quantidade": "2 colheres de sopa"},
-    {"nome": "Leite Ninho", "quantidade": "3 colheres de sopa"}
-  ],
-  "modoDePreparo": "Em uma panela grande, aqueça o óleo em fogo médio-alto. Adicione o milho de pipoca e o açúcar, mexendo bem para cobrir os grãos de milho. Tampe a panela e aguarde até que os grãos comecem a estourar. Agite a panela de vez em quando para garantir que as pipocas estourem uniformemente. Quando o intervalo entre os estouros for maior que 2 segundos, desligue o fogo e transfira as pipocas para uma tigela grande. Em seguida, polvilhe o Leite Ninho sobre as pipocas quentes e misture delicadamente para que fiquem bem envolvidas. Sirva imediatamente.",
-  "pathImagem": "https://s2.glbimg.com/AQFXammC1iWr5ojxjFS-WXjq7_A=/620x550/e.glbimg.com/og/ed/f/original/2021/06/14/receita-pipoca-doce-leite-em-po.jpg"
+    "nome": "Pipoca de Leite Ninho",
+    "categoria": "Sobremesa",
+    "descricao": "Uma versão irresistível de pipoca coberta com uma camada cremosa de Leite Ninho, ideal para os amantes de doce.",
+    "origem": "US",
+    "ingredientes": [
+      {"nome": "Milho de pipoca", "quantidade": "1/2 xícara"},
+      {"nome": "Óleo de milho", "quantidade": "2 colheres de sopa"},
+      {"nome": "Açúcar", "quantidade": "2 colheres de sopa"},
+      {"nome": "Leite Ninho", "quantidade": "3 colheres de sopa"}
+    ],
+    "modoDePreparo": "Em uma panela grande, aqueça o óleo em fogo médio-alto. Adicione o milho de pipoca e o açúcar, mexendo bem para cobrir os grãos de milho. Tampe a panela e aguarde até que os grãos comecem a estourar. Agite a panela de vez em quando para garantir que as pipocas estourem uniformemente. Quando o intervalo entre os estouros for maior que 2 segundos, desligue o fogo e transfira as pipocas para uma tigela grande. Em seguida, polvilhe o Leite Ninho sobre as pipocas quentes e misture delicadamente para que fiquem bem envolvidas. Sirva imediatamente.",
+    "pathImagem": "https://s2.glbimg.com/AQFXammC1iWr5ojxjFS-WXjq7_A=/620x550/e.glbimg.com/og/ed/f/original/2021/06/14/receita-pipoca-doce-leite-em-po.jpg"
   },
   {
     "nome": "Purê de Abóbora",
@@ -652,34 +740,34 @@
     "descricao": "Um purê de batata cremoso e saboroso, ideal para acompanhar carnes e outros pratos.",
     "origem": "BR",
     "ingredientes": [
-        {"nome": "Batatas", "quantidade": "1 kg"},
-        {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-        {"nome": "Leite", "quantidade": "1 xícara"},
-        {"nome": "Sal", "quantidade": "A gosto"},
-        {"nome": "Pimenta", "quantidade": "A gosto"}
+      {"nome": "Batatas", "quantidade": "1 kg"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Leite", "quantidade": "1 xícara"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"}
     ],
     "modoDePreparo": "Descasque e cozinhe as batatas em água salgada até ficarem macias. Escorra e passe pelo espremedor. Em uma panela, derreta a manteiga, adicione as batatas espremidas e misture bem. Aos poucos, adicione o leite até alcançar a consistência desejada. Tempere com sal e pimenta-do-reino a gosto.",
     "pathImagem": "https://s2-receitas.glbimg.com/gP3PIJVNMnFBYm2JIpmSy6HWE9U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/8/k/kz0Gu6Q4OCevzcJnfPJQ/pure-de-batata-com-creme-de-leite-receita.jpg"
   },
   {
-  "nome": "Quibe Assado Recheado",
-  "categoria": "Prato Principal",
-  "descricao": "Um quibe assado crocante por fora, recheado com um delicioso e cremoso catupiry, ideal para uma refeição especial.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Trigo", "quantidade": "2 xícaras"},
-    {"nome": "Água", "quantidade": "2 xícaras"},
-    {"nome": "Carne moída", "quantidade": "500g"},
-    {"nome": "Cebola", "quantidade": "1 unidade grande"},
-    {"nome": "Salsinha", "quantidade": "1/2 xícara"},
-    {"nome": "Hortelã", "quantidade": "1/4 xícara"},
-    {"nome": "Sal", "quantidade": "1 colher de chá"},
-    {"nome": "Pimenta do reino", "quantidade": "A gosto"},
-    {"nome": "Azeite", "quantidade": "Para regar"},
-    {"nome": "Catupiry", "quantidade": "A gosto"}
-  ],
-  "modoDePreparo": "Hidrate o trigo para quibe na água por cerca de 1 hora, até absorver toda a água. Em uma tigela, misture a carne moída, a cebola picada, a salsinha, a hortelã, a pimenta síria, o sal e a pimenta do reino. Adicione o trigo hidratado e misture bem até formar uma massa homogênea. Em uma forma untada, coloque metade da massa de quibe, espalhe uma camada de catupiry sobre ela, cubra com o restante da massa de quibe e alise a superfície. Faça cortes superficiais em formato de losangos. Regue com azeite de oliva. Leve ao forno preaquecido a 180°C por cerca de 40 minutos, ou até que o quibe esteja dourado e cozido por dentro.",
-  "pathImagem": "https://i.ytimg.com/vi/4lnkIs408AQ/maxresdefault.jpg"
+    "nome": "Quibe Assado Recheado",
+    "categoria": "Prato Principal",
+    "descricao": "Um quibe assado crocante por fora, recheado com um delicioso e cremoso catupiry, ideal para uma refeição especial.",
+    "origem": "SA",
+    "ingredientes": [
+      {"nome": "Trigo", "quantidade": "2 xícaras"},
+      {"nome": "Água", "quantidade": "2 xícaras"},
+      {"nome": "Carne moída", "quantidade": "500g"},
+      {"nome": "Cebola", "quantidade": "1 unidade grande"},
+      {"nome": "Salsinha", "quantidade": "1/2 xícara"},
+      {"nome": "Hortelã", "quantidade": "1/4 xícara"},
+      {"nome": "Sal", "quantidade": "1 colher de chá"},
+      {"nome": "Pimenta do reino", "quantidade": "A gosto"},
+      {"nome": "Azeite", "quantidade": "Para regar"},
+      {"nome": "Catupiry", "quantidade": "A gosto"}
+    ],
+    "modoDePreparo": "Hidrate o trigo para quibe na água por cerca de 1 hora, até absorver toda a água. Em uma tigela, misture a carne moída, a cebola picada, a salsinha, a hortelã, a pimenta síria, o sal e a pimenta do reino. Adicione o trigo hidratado e misture bem até formar uma massa homogênea. Em uma forma untada, coloque metade da massa de quibe, espalhe uma camada de catupiry sobre ela, cubra com o restante da massa de quibe e alise a superfície. Faça cortes superficiais em formato de losangos. Regue com azeite de oliva. Leve ao forno preaquecido a 180°C por cerca de 40 minutos, ou até que o quibe esteja dourado e cozido por dentro.",
+    "pathImagem": "https://i.ytimg.com/vi/4lnkIs408AQ/maxresdefault.jpg"
   },
   {
     "nome": "Risoto de Camarão",
@@ -687,23 +775,42 @@
     "descricao": "Um risoto cremoso e saboroso com camarões frescos, perfeito para uma refeição sofisticada e deliciosa.",
     "origem": "IT",
     "ingredientes": [
-        {"nome": "Camarões", "quantidade": "500 gramas"},
-        {"nome": "Arroz para Risoto (Arborio ou Carnaroli)", "quantidade": "1 xícara"},
-        {"nome": "Caldo de Camarão", "quantidade": "4 xícaras"},
-        {"nome": "Vinho Branco", "quantidade": "1/2 xícara"},
-        {"nome": "Cebola", "quantidade": "1 unidade média"},
-        {"nome": "Alho", "quantidade": "2 dentes"},
-        {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-        {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
-        {"nome": "Queijo Parmesão Ralado", "quantidade": "1/2 xícara"},
-        {"nome": "Salsinha", "quantidade": "A gosto"},
-        {"nome": "Sal", "quantidade": "A gosto"},
-        {"nome": "Pimenta-do-reino", "quantidade": "A gosto"}
+      {"nome": "Camarões", "quantidade": "500 gramas"},
+      {"nome": "Arroz para Risoto (Arborio ou Carnaroli)", "quantidade": "1 xícara"},
+      {"nome": "Caldo de Camarão", "quantidade": "4 xícaras"},
+      {"nome": "Vinho Branco", "quantidade": "1/2 xícara"},
+      {"nome": "Cebola", "quantidade": "1 unidade média"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
+      {"nome": "Queijo Parmesão Ralado", "quantidade": "1/2 xícara"},
+      {"nome": "Salsinha", "quantidade": "A gosto"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"}
     ],
     "modoDePreparo": "Limpe os camarões e tempere com sal e pimenta-do-reino. Em uma panela, aqueça o azeite e a manteiga e refogue os camarões até estarem cozidos e dourados. Reserve. Na mesma panela, adicione um pouco mais de manteiga e refogue a cebola e o alho até ficarem transparentes. Adicione o arroz e refogue por alguns minutos até começar a ficar translúcido. Despeje o vinho branco e cozinhe até o líquido evaporar quase completamente. Comece a adicionar o caldo de camarão quente, uma concha de cada vez, mexendo constantemente e deixando o líquido ser absorvido antes de adicionar mais. Continue o processo até o arroz estar al dente e o risoto ficar cremoso. Misture o queijo parmesão e adicione os camarões reservados. Ajuste o sal e a pimenta. Finalize com salsinha picada e sirva imediatamente.",
     "pathImagem": "https://www.evino.com.br/blog/wp-content/uploads/2022/08/risoto-de-camarao-scaled.jpg"
   },
-  {  
+  {
+    "nome": "Rosca Húngara",
+    "categoria": "Pão",
+    "descricao": "Pão doce e macio com uma massa rica e saborosa, ideal para o café da manhã ou lanche.",
+    "origem": "HU",
+    "ingredientes": [
+      {"nome": "Farinha de trigo", "quantidade": "500g"},
+      {"nome": "Açúcar", "quantidade": "100g"},
+      {"nome": "Leite", "quantidade": "250ml"},
+      {"nome": "Manteiga", "quantidade": "100g"},
+      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Fermento em pó", "quantidade": "10g"},
+      {"nome": "Sal", "quantidade": "1 colher de chá"},
+      {"nome": "Canela em pó", "quantidade": "1 colher de chá"},
+      {"nome": "Açúcar de confeiteiro", "quantidade": "Para polvilhar"}
+    ],
+    "modoDePreparo": "Em uma tigela pequena, misture o fermento em pó com a farinha e reserve. Em uma tigela grande, misture o açúcar, o sal e a canela em pó. Faça um buraco no centro da mistura e adicione os ovos, a manteiga derretida e o leite morno. Misture até formar uma massa homogênea e amasse por cerca de 10 minutos até a massa ficar elástica e lisa. Deixe a massa descansar em um lugar aquecido por aproximadamente 1 hora ou até dobrar de volume. Modele a massa em formato de rosca e coloque em uma forma untada. Deixe a rosca descansar por mais 30 minutos. Preaqueça o forno a 180°C e asse a rosca por cerca de 25-30 minutos, ou até dourar. Deixe esfriar e polvilhe com açúcar de confeiteiro antes de servir.",
+    "pathImagem": "https://i.ytimg.com/vi/8R6bzRY914A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBObjWBPfL6YjOxr1yJlENYf9NuKA"
+  },
+  {
     "nome": "Salada de Frango com Alface e Tomate",
     "categoria": "Salada",
     "descricao": "Salada fresca de frango desfiado com alface e tomate.",
@@ -782,26 +889,46 @@
     "pathImagem": "https://assets.unileversolutions.com/recipes-v2/36850.jpg"
   },
   {
-  "nome": "Strogonoff de Frango",
-  "categoria": "Prato Principal",
-  "descricao": "Um prato cremoso e reconfortante, com pedaços de frango em um molho de creme de leite e champignon, ideal para acompanhar arroz branco ou batata palha.",
-  "origem": "Rússia",
-  "ingredientes": [
-    {"nome": "Frango", "quantidade": "500g"},
-    {"nome": "Cebola", "quantidade": "1 unidade grande"},
-    {"nome": "Alho", "quantidade": "2 dentes"},
-    {"nome": "Champignon em conserva", "quantidade": "200g"},
-    {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-    {"nome": "Óleo", "quantidade": "1 colher de sopa"},
-    {"nome": "Ketchup", "quantidade": "2 colheres de sopa"},
-    {"nome": "Mostarda", "quantidade": "1 colher de sopa"},
-    {"nome": "Creme de leite", "quantidade": "1 lata"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Pimenta", "quantidade": "A gosto"},
-    {"nome": "Batata palha", "quantidade": "Para acompanhar"}
-  ],
-  "modoDePreparo": "Corte o peito de frango em cubos pequenos. Em uma frigideira grande, derreta a manteiga com o óleo e refogue a cebola e o alho picados até dourarem. Adicione o frango e refogue até que esteja completamente cozido. Acrescente o champignon picado, o ketchup e a mostarda. Cozinhe por alguns minutos. Reduza o fogo e adicione o creme de leite, mexendo bem para incorporar ao molho. Tempere com sal e pimenta a gosto. Cozinhe por mais alguns minutos, até que o molho esteja aquecido. Sirva o strogonoff acompanhado de arroz branco e batata palha.",
-  "pathImagem": "https://portal.lodivino.com.br/images/receitas/strogonoff-de-frango.jpg"
+    "nome": "Strogonoff de Frango",
+    "categoria": "Prato Principal",
+    "descricao": "Um prato cremoso e reconfortante, com pedaços de frango em um molho de creme de leite e champignon, ideal para acompanhar arroz branco ou batata palha.",
+    "origem": "RU",
+    "ingredientes": [
+      {"nome": "Frango", "quantidade": "500g"},
+      {"nome": "Cebola", "quantidade": "1 unidade grande"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Champignon em conserva", "quantidade": "200g"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Óleo", "quantidade": "1 colher de sopa"},
+      {"nome": "Ketchup", "quantidade": "2 colheres de sopa"},
+      {"nome": "Mostarda", "quantidade": "1 colher de sopa"},
+      {"nome": "Creme de leite", "quantidade": "1 lata"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Batata palha", "quantidade": "Para acompanhar"}
+    ],
+    "modoDePreparo": "Corte o peito de frango em cubos pequenos. Em uma frigideira grande, derreta a manteiga com o óleo e refogue a cebola e o alho picados até dourarem. Adicione o frango e refogue até que esteja completamente cozido. Acrescente o champignon picado, o ketchup e a mostarda. Cozinhe por alguns minutos. Reduza o fogo e adicione o creme de leite, mexendo bem para incorporar ao molho. Tempere com sal e pimenta a gosto. Cozinhe por mais alguns minutos, até que o molho esteja aquecido. Sirva o strogonoff acompanhado de arroz branco e batata palha.",
+    "pathImagem": "https://portal.lodivino.com.br/images/receitas/strogonoff-de-frango.jpg"
+  },
+  {
+    "nome": "Tabule",
+    "categoria": "Salada",
+    "descricao": "Uma salada refrescante de origem libanesa feita com trigo para quibe, tomates, pepino e ervas.",
+    "origem": "LB",
+    "ingredientes": [
+      {"nome": "Trigo para quibe", "quantidade": "1 xícara"},
+      {"nome": "Tomates", "quantidade": "2 unidades"},
+      {"nome": "Pepino", "quantidade": "1 unidade"},
+      {"nome": "Salsinha", "quantidade": "1 maço"},
+      {"nome": "Hortelã", "quantidade": "1 maço"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Azeite", "quantidade": "1/4 xícara"},
+      {"nome": "Suco de limão", "quantidade": "1/4 xícara"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Coloque o trigo para quibe de molho em água por 30 minutos. Escorra bem e esprema para remover o excesso de água. Pique os tomates, o pepino, a cebola, a salsinha e a hortelã. Em uma tigela grande, misture o trigo, os vegetais e as ervas. Tempere com azeite, suco de limão, sal e pimenta-do-reino a gosto. Deixe a salada na geladeira por pelo menos 1 hora antes de servir.",
+    "pathImagem": "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-tabule-quinua-sem-gluten.jpg"
   },
   {
     "nome": "Tomate Recheado com Frango",
@@ -819,27 +946,27 @@
     "pathImagem": "https://luciliadiniz.com/wp-content/uploads/2014/11/tomate-recheado-capa-04.jpg"
   },
   {
-  "nome": "Torta de Frango",
-  "categoria": "Prato Principal",
-  "descricao": "Uma torta deliciosa e reconfortante, recheada com frango desfiado e temperado.",
-  "origem": "BR",
-  "ingredientes": [
-    {"nome": "Massa de torta pronta", "quantidade": "1 unidade"},
-    {"nome": "Peito de frango cozido e desfiado", "quantidade": "500g"},
-    {"nome": "Cebola", "quantidade": "1 unidade"},
-    {"nome": "Alho", "quantidade": "2 dentes"},
-    {"nome": "Tomate", "quantidade": "1 unidade"},
-    {"nome": "Milho verde", "quantidade": "1 lata"},
-    {"nome": "Ervilha", "quantidade": "1 lata"},
-    {"nome": "Azeitonas", "quantidade": "1/2 xícara"},
-    {"nome": "Caldo de galinha", "quantidade": "1 tablete"},
-    {"nome": "Creme de leite", "quantidade": "1 lata"},
-    {"nome": "Queijo ralado", "quantidade": "1 xícara"},
-    {"nome": "Ovo ", "quantidade": "1 unidade"},
-    {"nome": "Sal", "quantidade": "A gosto"},
-    {"nome": "Pimenta", "quantidade": "A gosto"}
-  ],
-  "modoDePreparo": "Refogue a cebola e o alho em um pouco de azeite até dourarem. Adicione o frango desfiado, o tomate, o milho, a ervilha (se desejar) e as azeitonas. Dissolva o caldo de galinha em um pouco de água quente e adicione ao refogado. Cozinhe por alguns minutos até reduzir o líquido. Desligue o fogo, adicione o creme de leite, o queijo ralado, e tempere com sal e pimenta a gosto. Forre uma forma com a massa de torta, coloque o recheio por cima e cubra com outra camada de massa. Pincele a superfície com ovo batido e leve ao forno preaquecido a 180°C por cerca de 30 minutos, ou até dourar.",
-  "pathImagem": "https://i.ytimg.com/vi/bhZ7CSbYqtY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6HSKeor2XgjCVxIYXDnl9KwyO8A"
+    "nome": "Torta de Frango",
+    "categoria": "Prato Principal",
+    "descricao": "Uma torta deliciosa e reconfortante, recheada com frango desfiado e temperado.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Massa de torta pronta", "quantidade": "1 unidade"},
+      {"nome": "Peito de frango cozido e desfiado", "quantidade": "500g"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Tomate", "quantidade": "1 unidade"},
+      {"nome": "Milho verde", "quantidade": "1 lata"},
+      {"nome": "Ervilha", "quantidade": "1 lata"},
+      {"nome": "Azeitonas", "quantidade": "1/2 xícara"},
+      {"nome": "Caldo de galinha", "quantidade": "1 tablete"},
+      {"nome": "Creme de leite", "quantidade": "1 lata"},
+      {"nome": "Queijo ralado", "quantidade": "1 xícara"},
+      {"nome": "Ovo ", "quantidade": "1 unidade"},
+      {"nome": "Sal", "quantidade": "A gosto"},
+      {"nome": "Pimenta", "quantidade": "A gosto"}
+    ],
+    "modoDePreparo": "Refogue a cebola e o alho em um pouco de azeite até dourarem. Adicione o frango desfiado, o tomate, o milho, a ervilha (se desejar) e as azeitonas. Dissolva o caldo de galinha em um pouco de água quente e adicione ao refogado. Cozinhe por alguns minutos até reduzir o líquido. Desligue o fogo, adicione o creme de leite, o queijo ralado, e tempere com sal e pimenta a gosto. Forre uma forma com a massa de torta, coloque o recheio por cima e cubra com outra camada de massa. Pincele a superfície com ovo batido e leve ao forno preaquecido a 180°C por cerca de 30 minutos, ou até dourar.",
+    "pathImagem": "https://i.ytimg.com/vi/bhZ7CSbYqtY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6HSKeor2XgjCVxIYXDnl9KwyO8A"
   }
 ]
