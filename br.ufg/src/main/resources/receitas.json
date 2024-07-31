@@ -110,7 +110,7 @@
     "nome": "Bolinho de Arroz",
     "categoria": "Petisco",
     "descricao": "Petisco delicioso feito com arroz cozido, queijo, ovos e temperos, ideal para aproveitar sobras de arroz de forma criativa.",
-    "origem": "BR",
+    "origem": "JP",
     "ingredientes": [
       {"nome": "Arroz cozido", "quantidade": "2 xícaras"},
       {"nome": "Queijo", "quantidade": "1/2 xícara"},
@@ -167,7 +167,7 @@
     "nome": "Bolo de Chocolate",
     "categoria": "Sobremesa",
     "descricao": "Um delicioso bolo de chocolate com massa fofa e cobertura cremosa.",
-    "origem": "BR",
+    "origem": "DE",
     "ingredientes": [
       {"nome": "Farinha de Trigo", "quantidade": "2 xícaras"},
       {"nome": "Açúcar", "quantidade": "1 xícara"},
@@ -243,6 +243,20 @@
     "pathImagem": "https://s2-receitas.glbimg.com/yaRHKYhnNPkAZdN_4wk83Q9Y2VQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/y/H/ZSIYRzRsmXIb73mnAP0Q/brownie-de-chocolate.jpg"
   },
   {
+    "nome": "Calda de Morango",
+    "categoria": "Cobertura",
+    "descricao": "Calda de morango é uma deliciosa cobertura doce, perfeita para acompanhar sobremesas como cheesecakes, sorvetes e panquecas.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Morango", "quantidade": "300g"},
+      {"nome": "Açúcar", "quantidade": "150g"},
+      {"nome": "Suco de limão", "quantidade": "2 colheres de sopa"},
+      {"nome": "Água", "quantidade": "100ml"}
+    ],
+    "modoDePreparo": "Lave e retire as folhas dos morangos. Corte-os em pedaços e coloque em uma panela com o açúcar e a água. Cozinhe em fogo médio, mexendo ocasionalmente, até que os morangos estejam macios e o líquido tenha reduzido e engrossado, cerca de 15-20 minutos. Adicione o suco de limão e misture bem. Deixe esfriar antes de usar ou conserve na geladeira em um recipiente fechado. A calda pode ser servida quente ou fria sobre sua sobremesa favorita.",
+    "pathImagem": "https://www.laylita.com/receitas/wp-content/uploads/2016/02/Como-fazer-calda-de-morangos.jpg"
+  },
+  {
     "nome": "Caldo de Frango",
     "categoria": "Sopa",
     "descricao": "Um caldo reconfortante feito com pedaços de frango, legumes, temperos e ervas, ideal para dias frios ou como entrada em uma refeição.",
@@ -261,6 +275,25 @@
     ],
     "modoDePreparo": "Em uma panela grande, coloque o peito de frango e cubra com água. Leve ao fogo médio e cozinhe por cerca de 20 minutos, retirando a espuma que se forma na superfície. Adicione a cenoura, a batata, a cebola, o alho, o tomate, a salsinha, o sal e a pimenta do reino. Cozinhe por mais 30 minutos ou até que os legumes e o frango estejam completamente cozidos e macios. Retire o frango e desfie-o em pedaços menores. Volte o frango desfiado para a panela e cozinhe por mais alguns minutos para que os sabores se integrem. Retire a folha de louro antes de servir. Sirva quente.",
     "pathImagem": "https://cantinhodereceitas.com/wp-content/uploads/2024/04/maxresdefault-36.jpg"
+  },
+  {
+    "nome": "Cheesecake",
+    "categoria": "Sobremesa",
+    "descricao": "Cheesecake é uma sobremesa cremosa feita com queijo cremoso, geralmente sobre uma crosta de biscoito e frequentemente servida com coberturas de frutas ou caldas.",
+    "origem": "US",
+    "ingredientes": [
+      {"nome": "Biscoito de maisena", "quantidade": "200g"},
+      {"nome": "Manteiga derretida", "quantidade": "100g"},
+      {"nome": "Queijo cremoso (cream cheese)", "quantidade": "600g"},
+      {"nome": "Açúcar", "quantidade": "200g"},
+      {"nome": "Ovos", "quantidade": "3 unidades"},
+      {"nome": "Creme de leite", "quantidade": "200ml"},
+      {"nome": "Extrato de baunilha", "quantidade": "1 colher de chá"},
+      {"nome": "Farinha de trigo", "quantidade": "2 colheres de sopa"},
+      {"nome": "Suco de limão", "quantidade": "2 colheres de sopa"}
+    ],
+    "modoDePreparo": "Preaqueça o forno a 180°C. Para a crosta, triture os biscoitos de maisena e misture com a manteiga derretida. Pressione a mistura no fundo de uma forma de fundo removível para formar a base. Em uma tigela grande, bata o queijo cremoso até ficar cremoso e sem grumos. Adicione o açúcar e continue batendo até incorporar. Acrescente os ovos, um de cada vez, batendo bem após cada adição. Misture o creme de leite, o extrato de baunilha, a farinha e o suco de limão. Continue batendo até obter uma massa homogênea. Despeje a mistura sobre a crosta na forma. Asse por cerca de 50-60 minutos, ou até que o centro esteja firme e a superfície levemente dourada. Deixe esfriar completamente antes de refrigerar por pelo menos 4 horas ou durante a noite. Sirva com sua cobertura favorita, como frutas frescas ou calda de frutas.",
+    "pathImagem": "https://s2-receitas.glbimg.com/8QGipHvweOXdi0rq9cmyNyW0eQw=/0x0:1280x854/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/f/z/NC0azsRqaYfFLPbNR1gQ/cheesecake.jpeg"
   },
   {
     "nome": "Chocolate Quente",
@@ -433,6 +466,29 @@
     "pathImagem": "https://www.receiteria.com.br/wp-content/uploads/frango-grelhado.jpg"
   },
   {
+    "nome": "Frango Xadrez",
+    "categoria": "Prato Principal",
+    "descricao": "Frango xadrez é um prato típico da culinária chinesa, que combina pedaços de frango com legumes crocantes e molho saboroso.",
+    "origem": "CN",
+    "ingredientes": [
+      {"nome": "Peito de frango", "quantidade": "500g"},
+      {"nome": "Pimentão vermelho", "quantidade": "1 unidade"},
+      {"nome": "Pimentão verde", "quantidade": "1 unidade"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Cenoura", "quantidade": "1 unidade"},
+      {"nome": "Champignon", "quantidade": "200g"},
+      {"nome": "Alho", "quantidade": "3 dentes"},
+      {"nome": "Molho de soja", "quantidade": "3 colheres de sopa"},
+      {"nome": "Óleo de gergelim", "quantidade": "2 colheres de sopa"},
+      {"nome": "Amido de milho", "quantidade": "1 colher de sopa"},
+      {"nome": "Água", "quantidade": "100ml"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Corte o peito de frango em cubos e tempere com sal e pimenta-do-reino. Em uma panela, aqueça o óleo de gergelim e doure o frango. Adicione o alho picado e refogue por 1 minuto. Acrescente a cebola, os pimentões e a cenoura cortados em cubos e cozinhe até que fiquem crocantes. Adicione os champignons e continue refogando por mais alguns minutos. Em uma tigela, misture o molho de soja com o amido de milho e a água. Despeje sobre o frango e legumes, mexendo até que o molho engrosse e tudo esteja bem envolvido. Ajuste o sal e a pimenta e sirva quente.",
+    "pathImagem": "https://cknj.com.br/teste/wp-content/uploads/2017/01/frango-xadrez-02.jpg"
+  },
+  {
     "nome": "Fricassê de Frango",
     "categoria": "Prato Principal",
     "descricao": "Um prato cremoso e reconfortante, feito com frango desfiado, milho verde, requeijão e cobertura de batata palha.",
@@ -508,6 +564,22 @@
     ],
     "modoDePreparo": "Aqueça o azeite em uma panela grande e refogue a cebola e o alho picados até ficarem dourados. Adicione os tomates picados e o pimentão cortado em tiras, e cozinhe por alguns minutos até os vegetais amolecerem. Junte o frango desfiado e o caldo de galinha, misturando bem. Acrescente a água e deixe ferver. Adicione o macarrão e cozinhe até que esteja al dente e o líquido tenha reduzido, mexendo ocasionalmente. Ajuste o sal e a pimenta-do-reino a gosto. Finalize com salsinha picada e, se desejar, polvilhe com queijo ralado antes de servir.",
     "pathImagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/macarrao-panela-pressao-presunto-queijo-768x619.jpg"
+  },
+  {
+    "nome": "Mingau de Aveia",
+    "categoria": "Café da Manhã",
+    "descricao": "Mingau de aveia é um prato simples e nutritivo, ideal para começar o dia com energia. É feito com aveia, leite e pode ser adoçado e aromatizado a gosto.",
+    "origem": "GB",
+    "ingredientes": [
+      {"nome": "Aveia em flocos", "quantidade": "1 xícara"},
+      {"nome": "Leite", "quantidade": "2 xícaras"},
+      {"nome": "Açúcar", "quantidade": "2 colheres de sopa"},
+      {"nome": "Canela em pó", "quantidade": "1/2 colher de chá"},
+      {"nome": "Sal", "quantidade": "uma pitada"},
+      {"nome": "Frutas frescas ou secas (opcional)", "quantidade": "a gosto"}
+    ],
+    "modoDePreparo": "Em uma panela, coloque a aveia, o leite, o açúcar e o sal. Cozinhe em fogo médio, mexendo frequentemente, até que a mistura comece a engrossar e a aveia esteja macia, cerca de 5-10 minutos. Adicione a canela e misture bem. Retire do fogo e deixe descansar por alguns minutos. Sirva o mingau quente, com frutas frescas ou secas, se desejar.",
+    "pathImagem": "https://receitasdietaflexivel.com.br/uploads/recipes/2020/10/mingau-de-aveia-1-1603747647.jpeg"
   },
   {
     "nome": "Moqueca de Peixe",
@@ -790,6 +862,23 @@
     ],
     "modoDePreparo": "Limpe os camarões e tempere com sal e pimenta-do-reino. Em uma panela, aqueça o azeite e a manteiga e refogue os camarões até estarem cozidos e dourados. Reserve. Na mesma panela, adicione um pouco mais de manteiga e refogue a cebola e o alho até ficarem transparentes. Adicione o arroz e refogue por alguns minutos até começar a ficar translúcido. Despeje o vinho branco e cozinhe até o líquido evaporar quase completamente. Comece a adicionar o caldo de camarão quente, uma concha de cada vez, mexendo constantemente e deixando o líquido ser absorvido antes de adicionar mais. Continue o processo até o arroz estar al dente e o risoto ficar cremoso. Misture o queijo parmesão e adicione os camarões reservados. Ajuste o sal e a pimenta. Finalize com salsinha picada e sirva imediatamente.",
     "pathImagem": "https://www.evino.com.br/blog/wp-content/uploads/2022/08/risoto-de-camarao-scaled.jpg"
+  },
+  {
+    "nome": "Rocambole de Doce de Leite",
+    "categoria": "Sobremesa",
+    "descricao": "O rocambole de doce de leite é uma deliciosa sobremesa com um recheio cremoso de doce de leite, enrolado em uma massa macia e levemente doce.",
+    "origem": "CH",
+    "ingredientes": [
+      {"nome": "Ovos", "quantidade": "4 unidades"},
+      {"nome": "Açúcar", "quantidade": "1 xícara"},
+      {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
+      {"nome": "Fermento em pó", "quantidade": "1 colher de chá"},
+      {"nome": "Doce de leite", "quantidade": "1 xícara"},
+      {"nome": "Manteiga derretida", "quantidade": "2 colheres de sopa"},
+      {"nome": "Açúcar de confeiteiro", "quantidade": "para polvilhar"}
+    ],
+    "modoDePreparo": "Preaqueça o forno a 180°C. Em uma tigela, bata os ovos com o açúcar até obter uma mistura clara e fofa. Peneire a farinha e o fermento e incorpore delicadamente à mistura de ovos. Adicione a manteiga derretida e misture bem. Forre uma assadeira retangular com papel manteiga e despeje a massa, espalhando uniformemente. Asse por cerca de 10-12 minutos, ou até que a massa esteja levemente dourada e firme ao toque. Retire do forno e, ainda quente, desenforme sobre um pano de prato limpo e polvilhado com açúcar de confeiteiro. Espalhe o doce de leite sobre a massa e enrole com cuidado, formando o rocambole. Deixe esfriar completamente antes de servir. Polvilhe com mais açúcar de confeiteiro se desejar.",
+    "pathImagem": "https://cdn-productdbimages.barry-callebaut.com/sites/bc_productdb_images/files/styles/mdp_web_gm_chocac-detail/public/externals/2b66ccc3f1a3ad56c8a23fb3383d6387.jpg?itok=PmYSvW_c"
   },
   {
     "nome": "Rosca Húngara",
