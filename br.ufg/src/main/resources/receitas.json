@@ -83,6 +83,23 @@
     "pathImagem": "https://i.ytimg.com/vi/apdqUgIrpGk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBS6K7EIp4RnS9-88aNTsgojuylCA"
   },
   {
+    "nome": "Biscoito Quebrador",
+    "categoria": "Lanche",
+    "descricao": "Biscoito quebrador é um biscoito crocante e saboroso, perfeito para acompanhar um café ou chá. É conhecido por sua textura quebradiça e sabor amanteigado.",
+    "origem": "PT",
+    "ingredientes": [
+      {"nome": "Farinha de trigo", "quantidade": "2 xícaras"},
+      {"nome": "Açúcar", "quantidade": "1 xícara"},
+      {"nome": "Manteiga", "quantidade": "100g"},
+      {"nome": "Ovo", "quantidade": "1 unidade"},
+      {"nome": "Fermento em pó", "quantidade": "1 colher de chá"},
+      {"nome": "Essência de baunilha", "quantidade": "1 colher de chá"},
+      {"nome": "Sal", "quantidade": "uma pitada"}
+    ],
+    "modoDePreparo": "Preaqueça o forno a 180°C. Em uma tigela, misture a farinha de trigo, o fermento em pó e o sal. Em outra tigela, bata a manteiga com o açúcar até obter um creme claro e fofo. Adicione o ovo e a essência de baunilha e continue batendo até incorporar. Gradualmente, adicione a mistura de farinha à mistura de manteiga, mexendo até formar uma massa homogênea. Com a ajuda de duas colheres, faça pequenas porções de massa e coloque-as em uma assadeira untada ou forrada com papel manteiga. Asse por 12-15 minutos, ou até que os biscoitos estejam levemente dourados nas bordas. Deixe esfriar antes de servir.",
+    "pathImagem": "https://s2.glbimg.com/N2iW9Xf971JUB9E7MUnmx9xgJWI=/620x465/s.glbimg.com/jo/g1/f/original/2017/01/07/biscoito.jpg"
+  },
+  {
     "nome": "Bitterballen",
     "categoria": "Petisco",
     "descricao": "Petisco holandês crocante por fora e cremoso por dentro, feito com ragu de carne bovina e servido com mostarda.",
@@ -277,6 +294,27 @@
     "pathImagem": "https://cantinhodereceitas.com/wp-content/uploads/2024/04/maxresdefault-36.jpg"
   },
   {
+    "nome": "Canelone",
+    "categoria": "Prato Principal",
+    "descricao": "Canelone é uma deliciosa massa italiana recheada com carne, queijo ou outros ingredientes, coberta com molho e assada até ficar quente e borbulhante.",
+    "origem": "IT",
+    "ingredientes": [
+      {"nome": "Canelone", "quantidade": "12 unidades"},
+      {"nome": "Carne moída", "quantidade": "300g"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Molho de tomate", "quantidade": "1 xícara"},
+      {"nome": "Queijo ricota", "quantidade": "250g"},
+      {"nome": "Queijo parmesão ralado", "quantidade": "1/2 xícara"},
+      {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Salsinha picada", "quantidade": "2 colheres de sopa"}
+    ],
+    "modoDePreparo": "Preaqueça o forno a 180°C. Cozinhe os canelones em água salgada conforme as instruções da embalagem, até ficarem al dente. Enquanto isso, em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem macios. Adicione a carne moída e cozinhe até que esteja bem dourada. Incorpore o molho de tomate e cozinhe por mais alguns minutos. Tempere com sal e pimenta-do-reino. Em uma tigela, misture o queijo ricota com a salsinha picada e um pouco de sal. Recheie os canelones com a mistura de ricota e coloque-os em uma assadeira untada. Cubra com o molho de carne e polvilhe com o queijo parmesão. Leve ao forno e asse por 20-25 minutos, ou até que o queijo esteja derretido e levemente dourado. Sirva quente.",
+    "pathImagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/canelone-lingui%C3%A7a.jpg"
+  },
+  {
     "nome": "Cheesecake",
     "categoria": "Sobremesa",
     "descricao": "Cheesecake é uma sobremesa cremosa feita com queijo cremoso, geralmente sobre uma crosta de biscoito e frequentemente servida com coberturas de frutas ou caldas.",
@@ -375,6 +413,30 @@
     ],
     "modoDePreparo": "Higienize os morangos, retire os talos e corte-os em pedaços. No liquidificador, bata os morangos com o leite condensado, o creme de leite e o leite até obter um creme homogêneo. Prove e ajuste o açúcar, se necessário. Transfira o creme para uma tigela ou para taças individuais. Leve à geladeira por pelo menos 4 horas, ou até que o creme esteja firme. Sirva gelado.",
     "pathImagem": "https://img.freepik.com/fotos-premium/milkshake-fresco-com-morangos-em-um-fundo-preto-bebida-de-verao-com-um-canudo-em-um-copo-lugar-para-texto_183793-1074.jpg"
+  },
+  {
+    "nome": "Escondidinho de Carne Moída",
+    "categoria": "Prato Principal",
+    "descricao": "Escondidinho de carne moída é uma deliciosa combinação de carne moída temperada e purê de mandioca, assada até formar uma crosta dourada. Um prato reconfortante e saboroso, ideal para almoços ou jantares em família.",
+    "origem": "GB",
+    "ingredientes": [
+      {"nome": "Carne moída", "quantidade": "500g"},
+      {"nome": "Mandioca", "quantidade": "800g"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Tomate", "quantidade": "2 unidades"},
+      {"nome": "Pimentão verde", "quantidade": "1 unidade"},
+      {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
+      {"nome": "Caldo de carne", "quantidade": "1 tablete"},
+      {"nome": "Leite", "quantidade": "1/2 xícara"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Queijo ralado", "quantidade": "1 xícara"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Salsinha picada", "quantidade": "2 colheres de sopa"}
+    ],
+    "modoDePreparo": "Cozinhe a mandioca em água salgada até que fique macia, depois escorra e amasse até formar um purê. Misture o purê com a manteiga e o leite, ajustando o sal. Reserve. Em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem dourados. Adicione a carne moída e cozinhe até que esteja bem dourada. Junte o tomate picado, o pimentão verde e o caldo de carne, e cozinhe até que o tomate esteja desfeito e o líquido tenha evaporado. Ajuste o sal e a pimenta-do-reino. Em um refratário, coloque uma camada de carne moída e cubra com o purê de mandioca. Polvilhe com queijo ralado. Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até que o queijo esteja derretido e dourado. Finalize com a salsinha picada e sirva quente.",
+    "pathImagem": "https://bakeandcakegourmet.com.br/uploads/site/receitas/escondidinho-de-carne-moida-x3hxxplr.jpg"
   },
   {
     "nome": "Farofa de Banana",
@@ -778,6 +840,21 @@
     "pathImagem": "https://i0.wp.com/www.essenciastudio.com.br/wp-content/uploads/2024/01/pave-de-sonho-de-valsa-2-1.jpg?fit=1600%2C817&ssl=1"
   },
   {
+    "nome": "Pé de Moleque",
+    "categoria": "Sobremesa",
+    "descricao": "Pé de Moleque é um doce tradicional brasileiro feito com amendoim torrado e caramelo. É uma sobremesa crocante e deliciosa, perfeita para festas e ocasiões especiais.",
+    "origem": "BR",
+    "ingredientes": [
+      {"nome": "Amendoim", "quantidade": "500g"},
+      {"nome": "Açúcar", "quantidade": "2 xícaras"},
+      {"nome": "Água", "quantidade": "1/2 xícara"},
+      {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
+      {"nome": "Bicarbonato de sódio", "quantidade": "1/2 colher de chá"}
+    ],
+    "modoDePreparo": "Torre o amendoim em uma frigideira ou no forno até que fique dourado e reserve. Em uma panela, misture o açúcar e a água e leve ao fogo médio, mexendo até o açúcar dissolver. Deixe cozinhar até obter um caramelo dourado. Retire a panela do fogo e adicione a manteiga e o bicarbonato de sódio, mexendo bem. Junte o amendoim torrado ao caramelo e misture até que esteja bem envolvido. Despeje a mistura em uma forma untada com manteiga e espalhe com uma espátula. Deixe esfriar e endurecer completamente antes de cortar em pedaços. Sirva e desfrute.",
+    "pathImagem": "https://catracalivre.com.br/wp-content/uploads/2023/11/pe-de-moleque.jpg"
+  },
+  {
     "nome": "Pipoca de Leite Ninho",
     "categoria": "Sobremesa",
     "descricao": "Uma versão irresistível de pipoca coberta com uma camada cremosa de Leite Ninho, ideal para os amantes de doce.",
@@ -809,17 +886,18 @@
   {
     "nome": "Purê de Batata",
     "categoria": "Acompanhamento",
-    "descricao": "Um purê de batata cremoso e saboroso, ideal para acompanhar carnes e outros pratos.",
-    "origem": "BR",
+    "descricao": "O purê de batata é um acompanhamento cremoso e reconfortante, perfeito para acompanhar diversos pratos principais. Feito com batatas, leite e manteiga, é uma receita simples e deliciosa.",
+    "origem": "FR",
     "ingredientes": [
-      {"nome": "Batatas", "quantidade": "1 kg"},
+      {"nome": "Batata", "quantidade": "1 kg"},
+      {"nome": "Leite", "quantidade": "1/2 xícara"},
       {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-      {"nome": "Leite", "quantidade": "1 xícara"},
-      {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"}
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Queijo ralado (opcional)", "quantidade": "1/4 xícara"}
     ],
-    "modoDePreparo": "Descasque e cozinhe as batatas em água salgada até ficarem macias. Escorra e passe pelo espremedor. Em uma panela, derreta a manteiga, adicione as batatas espremidas e misture bem. Aos poucos, adicione o leite até alcançar a consistência desejada. Tempere com sal e pimenta-do-reino a gosto.",
-    "pathImagem": "https://s2-receitas.glbimg.com/gP3PIJVNMnFBYm2JIpmSy6HWE9U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/8/k/kz0Gu6Q4OCevzcJnfPJQ/pure-de-batata-com-creme-de-leite-receita.jpg"
+    "modoDePreparo": "Descasque as batatas e corte em pedaços iguais. Cozinhe em água salgada até que estejam bem macias, cerca de 15-20 minutos. Escorra as batatas e passe por um espremedor ou amasse bem com um garfo. Em uma panela, aqueça o leite e a manteiga até que a manteiga esteja derretida. Adicione o purê de batata à panela e misture bem até ficar homogêneo e cremoso. Ajuste o sal e a pimenta-do-reino a gosto. Se desejar, adicione queijo ralado e misture até derreter. Sirva quente.",
+    "pathImagem": "https://img.cybercook.com.br/receitas/973/pure-de-batata.jpeg"
   },
   {
     "nome": "Quibe Assado Recheado",
@@ -1057,5 +1135,29 @@
     ],
     "modoDePreparo": "Refogue a cebola e o alho em um pouco de azeite até dourarem. Adicione o frango desfiado, o tomate, o milho, a ervilha (se desejar) e as azeitonas. Dissolva o caldo de galinha em um pouco de água quente e adicione ao refogado. Cozinhe por alguns minutos até reduzir o líquido. Desligue o fogo, adicione o creme de leite, o queijo ralado, e tempere com sal e pimenta a gosto. Forre uma forma com a massa de torta, coloque o recheio por cima e cubra com outra camada de massa. Pincele a superfície com ovo batido e leve ao forno preaquecido a 180°C por cerca de 30 minutos, ou até dourar.",
     "pathImagem": "https://i.ytimg.com/vi/bhZ7CSbYqtY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6HSKeor2XgjCVxIYXDnl9KwyO8A"
+  },
+  {
+    "nome": "Yakisoba",
+    "categoria": "Prato Principal",
+    "descricao": "Yakisoba é um prato de origem japonesa que consiste em macarrão frito com legumes e carne, temperado com molho especial. É um prato versátil e saboroso, popular em várias partes do mundo.",
+    "origem": "JP",
+    "ingredientes": [
+      {"nome": "Macarrão para yakisoba", "quantidade": "250g"},
+      {"nome": "Peito de frango", "quantidade": "200g"},
+      {"nome": "Cenoura", "quantidade": "1 unidade"},
+      {"nome": "Brócolis", "quantidade": "1 xícara"},
+      {"nome": "Pimentão vermelho", "quantidade": "1 unidade"},
+      {"nome": "Pimentão verde", "quantidade": "1 unidade"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Alho", "quantidade": "2 dentes"},
+      {"nome": "Óleo", "quantidade": "2 colheres de sopa"},
+      {"nome": "Molho shoyu", "quantidade": "4 colheres de sopa"},
+      {"nome": "Sake", "quantidade": "1 colher de sopa"},
+      {"nome": "Sal", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
+      {"nome": "Cebolinha", "quantidade": "2 colheres de sopa"}
+    ],
+    "modoDePreparo": "Cozinhe o macarrão para yakisoba conforme as instruções da embalagem, escorra e reserve. Corte o peito de frango em tiras finas. Em uma wok ou frigideira grande, aqueça o óleo e refogue o alho até liberar aroma. Adicione o frango e cozinhe até que esteja dourado e cozido por completo. Corte a cenoura em tiras finas, os pimentões em tiras e a cebola em rodelas. Adicione a cenoura e a cebola à wok e refogue por 2-3 minutos. Acrescente os brócolis e pimentões, e refogue por mais 3-4 minutos, até que os legumes estejam al dente. Adicione o macarrão cozido, o molho shoyu e o sake. Misture bem até que o macarrão esteja bem envolvido com os temperos e os legumes. Ajuste o sal e a pimenta-do-reino a gosto. Finalize com a cebolinha picada e sirva quente.",
+    "pathImagem": "https://blog.atacadao.com.br/wp-content/uploads/2023/11/Receitas-de-Yakisoba-conheca-duas-opcoes-Foto-de-um-prato-de-yakisoba-Atacadao.jpg"
   }
 ]
