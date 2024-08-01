@@ -42,10 +42,10 @@
       {"nome": "Pimentão", "quantidade": "1 unidade pequena"},
       {"nome": "Óleo", "quantidade": "Para refogar"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Água", "quantidade": "4 xícaras"}
     ],
-    "modoDePreparo": "Corte a carne em cubos pequenos e deixe de molho em água por algumas horas para dessalgar. Troque a água pelo menos duas vezes durante esse processo. Em uma panela grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione a carne de charque e frite até dourar. Acrescente a linguiça calabresa cortada em rodelas e frite por mais alguns minutos. Adicione a cebola picada, o alho picado, os pimentões picados e o tomate picado. Refogue até que os vegetais estejam macios. Acrescente o arroz lavado e escorrido, mexendo bem para envolver todos os ingredientes. Tempere com sal e pimenta do reino a gosto. Adicione a água fervente, abaixe o fogo, tampe a panela e cozinhe por aproximadamente 20 minutos, ou até que o arroz esteja cozido e a água tenha sido absorvida. Sirva quente.",
+    "modoDePreparo": "Corte a carne em cubos pequenos e deixe de molho em água por algumas horas para dessalgar. Troque a água pelo menos duas vezes durante esse processo. Em uma panela grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione a carne de charque e frite até dourar. Acrescente a linguiça calabresa cortada em rodelas e frite por mais alguns minutos. Adicione a cebola picada, o alho picado, os pimentões picados e o tomate picado. Refogue até que os vegetais estejam macios. Acrescente o arroz lavado e escorrido, mexendo bem para envolver todos os ingredientes. Tempere com sal e pimenta-do-reino a gosto. Adicione a água fervente, abaixe o fogo, tampe a panela e cozinhe por aproximadamente 20 minutos, ou até que o arroz esteja cozido e a água tenha sido absorvida. Sirva quente.",
     "pathImagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/f4322f4b99edd0f839d72ddf8908df79.webp?itok=asFmugo0"
   },
   {
@@ -56,12 +56,12 @@
     "ingredientes": [
       {"nome": "Bife de Carne", "quantidade": "4 unidades"},
       {"nome": "Farinha de Trigo", "quantidade": "1/2 xícara"},
-      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Ovo", "quantidade": "2 unidades"},
       {"nome": "Farinha de Rosca", "quantidade": "1 xícara"},
       {"nome": "Sal", "quantidade": "A gosto"},
       {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Alho em Pó", "quantidade": "1 colher de chá"},
-      {"nome": "Óleo para Fritar", "quantidade": "Suficiente para cobrir os bifes na frigideira"}
+      {"nome": "Óleo", "quantidade": "Suficiente para cobrir os bifes na frigideira"}
     ],
     "modoDePreparo": "Tempere os bifes com sal, pimenta-do-reino e alho em pó. Passe cada bife na farinha de trigo, garantindo que esteja bem coberto e retire o excesso. Em seguida, mergulhe os bifes nos ovos batidos e, por fim, passe-os na farinha de rosca, pressionando para que a farinha grude bem. Aqueça o óleo em uma frigideira grande em fogo médio-alto. Frite os bifes até que estejam dourados e crocantes, cerca de 3-4 minutos de cada lado. Retire os bifes e coloque-os sobre papel toalha para remover o excesso de óleo. Sirva quente, acompanhado de arroz, salada ou o que preferir.",
     "pathImagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/05/29/bife-a-milanesa-de-forno-sem-gluten-qhnbc238qur5.jpg"
@@ -77,9 +77,9 @@
       {"nome": "Farinha de trigo", "quantidade": "1 e 1/2 xícara"},
       {"nome": "Fermento", "quantidade": "1 colher de chá"},
       {"nome": "Sal", "quantidade": "1/2 colher de chá"},
-      {"nome": "Pimenta", "quantidade": "A gosto"}
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"}
     ],
-    "modoDePreparo": "Em uma tigela, misture o queijo ralado com a manteiga até obter uma mistura cremosa. Adicione a farinha de trigo, o fermento em pó, o sal e a pimenta do reino. Amasse bem até formar uma massa homogênea. Modele pequenos discos com a massa e coloque em uma assadeira untada. Leve ao forno preaquecido a 180°C por cerca de 15 minutos, ou até que os biscoitos estejam dourados. Deixe esfriar antes de servir.",
+    "modoDePreparo": "Em uma tigela, misture o queijo ralado com a manteiga até obter uma mistura cremosa. Adicione a farinha de trigo, o fermento em pó, o sal e a pimenta-do-reino. Amasse bem até formar uma massa homogênea. Modele pequenos discos com a massa e coloque em uma assadeira untada. Leve ao forno preaquecido a 180°C por cerca de 15 minutos, ou até que os biscoitos estejam dourados. Deixe esfriar antes de servir.",
     "pathImagem": "https://i.ytimg.com/vi/apdqUgIrpGk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBS6K7EIp4RnS9-88aNTsgojuylCA"
   },
   {
@@ -110,17 +110,17 @@
       {"nome": "Farinha de trigo", "quantidade": "50g"},
       {"nome": "Caldo de carne", "quantidade": "250ml"},
       {"nome": "Leite", "quantidade": "250ml"},
-      {"nome": "Cebola picada", "quantidade": "1 unidade"},
-      {"nome": "Salsinha picada", "quantidade": "2 colheres de sopa"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
+      {"nome": "Salsinha", "quantidade": "2 colheres de sopa"},
       {"nome": "Noz-moscada", "quantidade": "1 pitada"},
       {"nome": "Sal", "quantidade": "a gosto"},
       {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
       {"nome": "Ovo", "quantidade": "1 unidade"},
       {"nome": "Farinha de rosca", "quantidade": "para empanar"},
-      {"nome": "Óleo vegetal", "quantidade": "para fritar"},
+      {"nome": "Óleo", "quantidade": "para fritar"},
       {"nome": "Mostarda", "quantidade": "para servir"}
     ],
-    "modoDePreparo": "Refogue a cebola na manteiga, adicione a carne moída e cozinhe até dourar. Acrescente a farinha e cozinhe por mais 2 minutos. Adicione o caldo de carne e o leite aos poucos, mexendo até obter um ragu espesso. Tempere com sal, pimenta e noz-moscada. Misture a salsinha. Deixe esfriar, modele bolinhas, passe no ovo batido e na farinha de rosca. Frite em óleo quente até dourar. Sirva com mostarda.",
+    "modoDePreparo": "Refogue a cebola na manteiga, adicione a carne moída e cozinhe até dourar. Acrescente a farinha e cozinhe por mais 2 minutos. Adicione o caldo de carne e o leite aos poucos, mexendo até obter um ragu espesso. Tempere com sal, pimenta e noz-moscada. Misture a salsinha picada. Deixe esfriar, modele bolinhas, passe no ovo batido e na farinha de rosca. Frite em óleo quente até dourar. Sirva com mostarda.",
     "pathImagem": "https://s2-casaejardim.glbimg.com/xVsvprPn3nXcgbOHdUkr70NtnsU=/0x0:1280x853/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2022/9/C/0yDfkcQK6ObbnIcfD6Ng/receita-de-bitterballen-croquete-de-carne.jpg"
   },
   {
@@ -136,10 +136,10 @@
       {"nome": "Salsinha", "quantidade": "2 colheres de sopa"},
       {"nome": "Farinha de trigo", "quantidade": "2 colheres de sopa"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Óleo", "quantidade": "Para fritar"}
     ],
-    "modoDePreparo": "Em uma tigela grande, misture o arroz cozido com o queijo ralado, o ovo, a cebola picada, a salsinha picada, a farinha de trigo, o sal e a pimenta do reino. Amasse bem até obter uma massa homogênea e que possa ser moldada em bolinhas. Se necessário, adicione mais farinha de trigo para dar consistência. Modele pequenas bolinhas com as mãos. Em uma frigideira, aqueça o óleo em fogo médio. Frite os bolinhos de arroz até que estejam dourados e crocantes por fora. Retire com uma escumadeira e deixe escorrer em papel toalha. Sirva quente como petisco.",
+    "modoDePreparo": "Em uma tigela grande, misture o arroz cozido com o queijo ralado, o ovo, a cebola picada, a salsinha picada, a farinha de trigo, o sal e a pimenta-do-reino. Amasse bem até obter uma massa homogênea e que possa ser moldada em bolinhas. Se necessário, adicione mais farinha de trigo para dar consistência. Modele pequenas bolinhas com as mãos. Em uma frigideira, aqueça o óleo em fogo médio. Frite os bolinhos de arroz até que estejam dourados e crocantes por fora. Retire com uma escumadeira e deixe escorrer em papel toalha. Sirva quente como petisco.",
     "pathImagem": "https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/other/bolinho-de-arroz/main-header.jpg"
   },
   {
@@ -189,7 +189,7 @@
       {"nome": "Farinha de Trigo", "quantidade": "2 xícaras"},
       {"nome": "Açúcar", "quantidade": "1 xícara"},
       {"nome": "Chocolate em Pó", "quantidade": "1 xícara"},
-      {"nome": "Ovos", "quantidade": "3 unidades"},
+      {"nome": "Ovo", "quantidade": "3 unidades"},
       {"nome": "Leite", "quantidade": "1 xícara"},
       {"nome": "Manteiga", "quantidade": "100 gramas"}
     ],
@@ -249,7 +249,7 @@
     "ingredientes": [
       {"nome": "Manteiga", "quantidade": "100 gramas"},
       {"nome": "Açúcar", "quantidade": "1 xícara"},
-      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Ovo", "quantidade": "2 unidades"},
       {"nome": "Chocolate Meio Amargo", "quantidade": "100 gramas"},
       {"nome": "Farinha de Trigo", "quantidade": "1/2 xícara"},
       {"nome": "Cacau em Pó", "quantidade": "1/4 xícara"},
@@ -287,10 +287,10 @@
       {"nome": "Tomate", "quantidade": "1 unidade média"},
       {"nome": "Salsinha", "quantidade": "A gosto"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Água", "quantidade": "2 litros"}
     ],
-    "modoDePreparo": "Em uma panela grande, coloque o peito de frango e cubra com água. Leve ao fogo médio e cozinhe por cerca de 20 minutos, retirando a espuma que se forma na superfície. Adicione a cenoura, a batata, a cebola, o alho, o tomate, a salsinha, o sal e a pimenta do reino. Cozinhe por mais 30 minutos ou até que os legumes e o frango estejam completamente cozidos e macios. Retire o frango e desfie-o em pedaços menores. Volte o frango desfiado para a panela e cozinhe por mais alguns minutos para que os sabores se integrem. Retire a folha de louro antes de servir. Sirva quente.",
+    "modoDePreparo": "Em uma panela grande, coloque o peito de frango e cubra com água. Leve ao fogo médio e cozinhe por cerca de 20 minutos, retirando a espuma que se forma na superfície. Adicione a cenoura, a batata, a cebola, o alho, o tomate, a salsinha, o sal e a pimenta-do-reino. Cozinhe por mais 30 minutos ou até que os legumes e o frango estejam completamente cozidos e macios. Retire o frango e desfie-o em pedaços menores. Volte o frango desfiado para a panela e cozinhe por mais alguns minutos para que os sabores se integrem. Retire a folha de louro antes de servir. Sirva quente.",
     "pathImagem": "https://cantinhodereceitas.com/wp-content/uploads/2024/04/maxresdefault-36.jpg"
   },
   {
@@ -309,7 +309,7 @@
       {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
       {"nome": "Sal", "quantidade": "a gosto"},
       {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
-      {"nome": "Salsinha picada", "quantidade": "2 colheres de sopa"}
+      {"nome": "Salsinha", "quantidade": "2 colheres de sopa"}
     ],
     "modoDePreparo": "Preaqueça o forno a 180°C. Cozinhe os canelones em água salgada conforme as instruções da embalagem, até ficarem al dente. Enquanto isso, em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem macios. Adicione a carne moída e cozinhe até que esteja bem dourada. Incorpore o molho de tomate e cozinhe por mais alguns minutos. Tempere com sal e pimenta-do-reino. Em uma tigela, misture o queijo ricota com a salsinha picada e um pouco de sal. Recheie os canelones com a mistura de ricota e coloque-os em uma assadeira untada. Cubra com o molho de carne e polvilhe com o queijo parmesão. Leve ao forno e asse por 20-25 minutos, ou até que o queijo esteja derretido e levemente dourado. Sirva quente.",
     "pathImagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/canelone-lingui%C3%A7a.jpg"
@@ -324,7 +324,7 @@
       {"nome": "Manteiga derretida", "quantidade": "100g"},
       {"nome": "Queijo cremoso (cream cheese)", "quantidade": "600g"},
       {"nome": "Açúcar", "quantidade": "200g"},
-      {"nome": "Ovos", "quantidade": "3 unidades"},
+      {"nome": "Ovo", "quantidade": "3 unidades"},
       {"nome": "Creme de leite", "quantidade": "200ml"},
       {"nome": "Extrato de baunilha", "quantidade": "1 colher de chá"},
       {"nome": "Farinha de trigo", "quantidade": "2 colheres de sopa"},
@@ -355,19 +355,19 @@
     "descricao": "Salgado brasileiro popular, consiste em uma massa de batata recheada com frango desfiado, empanada e frita.",
     "origem": "BR",
     "ingredientes": [
-      {"nome": "Peito de frango cozido e desfiado", "quantidade": "1 xícara"},
+      {"nome": "Frango", "quantidade": "1 xícara"},
       {"nome": "Caldo de galinha", "quantidade": "1 xícara"},
       {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
-      {"nome": "Cebola picada", "quantidade": "1 unidade"},
+      {"nome": "Cebola", "quantidade": "1 unidade"},
       {"nome": "Alho picado", "quantidade": "2 dentes"},
       {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
       {"nome": "Leite", "quantidade": "1 xícara"},
-      {"nome": "Batatas cozidas e amassadas", "quantidade": "2 xícaras"},
+      {"nome": "Batata", "quantidade": "2 xícaras"},
       {"nome": "Sal", "quantidade": "a gosto"},
       {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
       {"nome": "Óleo vegetal", "quantidade": "para fritar"}
     ],
-    "modoDePreparo": "Em uma panela, refogue a cebola e o alho na manteiga até dourar. Adicione o frango desfiado e o caldo de galinha, cozinhando até secar um pouco. Acrescente a farinha de trigo e mexa bem. Adicione o leite aos poucos, mexendo até obter uma massa grossa. Tempere com sal e pimenta. Modele as coxinhas, recheando com o frango e empanando com farinha de rosca. Frite em óleo quente até dourar. Sirva quente.",
+    "modoDePreparo": "Em uma panela, refogue a cebola picada e o alho na manteiga até dourar. Adicione o frango desfiado e o caldo de galinha, cozinhando até secar um pouco. Acrescente a farinha de trigo e mexa bem. Adicione o leite aos poucos, mexendo até obter uma massa grossa. Tempere com sal e pimenta. Modele as coxinhas, recheando com o frango e empanando com farinha de rosca. Frite em óleo quente até dourar. Sirva quente.",
     "pathImagem": "https://d1uz88p17r663j.cloudfront.net/original/819f012f2c1c7577ac2fbefe0312c85c_coxinha-receitas-nestle.jpg"
   },
   {
@@ -433,7 +433,7 @@
       {"nome": "Queijo ralado", "quantidade": "1 xícara"},
       {"nome": "Sal", "quantidade": "a gosto"},
       {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
-      {"nome": "Salsinha picada", "quantidade": "2 colheres de sopa"}
+      {"nome": "Salsinha", "quantidade": "2 colheres de sopa"}
     ],
     "modoDePreparo": "Cozinhe a mandioca em água salgada até que fique macia, depois escorra e amasse até formar um purê. Misture o purê com a manteiga e o leite, ajustando o sal. Reserve. Em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem dourados. Adicione a carne moída e cozinhe até que esteja bem dourada. Junte o tomate picado, o pimentão verde e o caldo de carne, e cozinhe até que o tomate esteja desfeito e o líquido tenha evaporado. Ajuste o sal e a pimenta-do-reino. Em um refratário, coloque uma camada de carne moída e cubra com o purê de mandioca. Polvilhe com queijo ralado. Leve ao forno pré-aquecido a 180°C por cerca de 20-25 minutos, ou até que o queijo esteja derretido e dourado. Finalize com a salsinha picada e sirva quente.",
     "pathImagem": "https://bakeandcakegourmet.com.br/uploads/site/receitas/escondidinho-de-carne-moida-x3hxxplr.jpg"
@@ -450,7 +450,7 @@
       {"nome": "Cebola", "quantidade": "1 unidade média"},
       {"nome": "Alho", "quantidade": "2 dentes"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"}
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"}
     ],
     "modoDePreparo": "Descasque e corte as bananas em rodelas. Em uma frigideira, derreta a manteiga e refogue a cebola e o alho até ficarem dourados. Adicione as bananas e cozinhe até começarem a amolecer. Acrescente a farinha de mandioca e misture bem, cozinhando até a farofa ficar levemente crocante. Tempere com sal e pimenta-do-reino a gosto.",
     "pathImagem": "https://s2-receitas.glbimg.com/HpGbKpzLz2ahG-x1OByI22QbNYU=/0x0:984x763/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/n/o/bA4RrITKODbAiOErlsLQ/farofa-de-banana-da-terra.jpg"
@@ -469,10 +469,10 @@
       {"nome": "Alho", "quantidade": "2 dentes"},
       {"nome": "Farinha de mandioca", "quantidade": "1 xícara"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta do reino", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Óleo ou azeite", "quantidade": "Para refogar"}
     ],
-    "modoDePreparo": "Em uma frigideira grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione o bacon em cubos e a linguiça calabresa cortada em rodelas. Frite até que estejam dourados e crocantes. Adicione a cebola e o alho picados e refogue até que estejam dourados. Adicione os ovos batidos e mexa bem até que estejam cozidos e misturados aos outros ingredientes. Em seguida, adicione o feijão carioca cozido e escorrido, misturando bem. Acrescente a farinha de mandioca aos poucos, mexendo sempre, até que esteja bem incorporada e o feijão esteja envolvido pela farinha. Tempere com sal e pimenta do reino a gosto. Sirva quente.",
+    "modoDePreparo": "Em uma frigideira grande, aqueça um pouco de óleo ou azeite em fogo médio. Adicione o bacon em cubos e a linguiça calabresa cortada em rodelas. Frite até que estejam dourados e crocantes. Adicione a cebola e o alho picados e refogue até que estejam dourados. Adicione os ovos batidos e mexa bem até que estejam cozidos e misturados aos outros ingredientes. Em seguida, adicione o feijão carioca cozido e escorrido, misturando bem. Acrescente a farinha de mandioca aos poucos, mexendo sempre, até que esteja bem incorporada e o feijão esteja envolvido pela farinha. Tempere com sal e pimenta-do-reino a gosto. Sirva quente.",
     "pathImagem": "https://j6t2y8j5.rocketcdn.me/wp-content/uploads/2023/02/2-2.png"
   },
   {
@@ -502,7 +502,7 @@
     "origem": "GB",
     "ingredientes": [
       {"nome": "Filés de peixe (bacalhau ou merluza)", "quantidade": "4 unidades"},
-      {"nome": "Batatas", "quantidade": "4 unidades"},
+      {"nome": "Batata", "quantidade": "4 unidades"},
       {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
       {"nome": "Cerveja clara", "quantidade": "1 xícara"},
       {"nome": "Óleo vegetal", "quantidade": "para fritar"},
@@ -533,7 +533,7 @@
     "descricao": "Frango xadrez é um prato típico da culinária chinesa, que combina pedaços de frango com legumes crocantes e molho saboroso.",
     "origem": "CN",
     "ingredientes": [
-      {"nome": "Peito de frango", "quantidade": "500g"},
+      {"nome": "Frango", "quantidade": "500g"},
       {"nome": "Pimentão vermelho", "quantidade": "1 unidade"},
       {"nome": "Pimentão verde", "quantidade": "1 unidade"},
       {"nome": "Cebola", "quantidade": "1 unidade"},
@@ -564,10 +564,10 @@
       {"nome": "Alho", "quantidade": "2 dentes"},
       {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Batata palha", "quantidade": "Para cobertura"}
     ],
-    "modoDePreparo": "Refogue a cebola e o alho no azeite até dourarem. Adicione o frango desfiado e refogue por alguns minutos. Acrescente o milho verde escorrido, o requeijão e o creme de leite. Tempere com sal e pimenta do reino a gosto e cozinhe por mais alguns minutos, até obter um molho cremoso. Transfira para um refratário untado, cubra com batata palha e leve ao forno preaquecido a 180°C por cerca de 20 minutos, ou até que a superfície esteja dourada e borbulhante.",
+    "modoDePreparo": "Refogue a cebola e o alho no azeite até dourarem. Adicione o frango desfiado e refogue por alguns minutos. Acrescente o milho verde escorrido, o requeijão e o creme de leite. Tempere com sal e pimenta-do-reino a gosto e cozinhe por mais alguns minutos, até obter um molho cremoso. Transfira para um refratário untado, cubra com batata palha e leve ao forno preaquecido a 180°C por cerca de 20 minutos, ou até que a superfície esteja dourada e borbulhante.",
     "pathImagem": "https://i.ytimg.com/vi/DOtr68AHGE8/maxresdefault.jpg"
   },
   {
@@ -615,7 +615,7 @@
       {"nome": "Alho", "quantidade": "3 dentes"},
       {"nome": "Tomates", "quantidade": "4 unidades"},
       {"nome": "Pimentão", "quantidade": "1 unidade"},
-      {"nome": "Frango desfiado", "quantidade": "200g"},
+      {"nome": "Frango", "quantidade": "200g"},
       {"nome": "Caldo de galinha", "quantidade": "1 cubo"},
       {"nome": "Água", "quantidade": "500ml"},
       {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
@@ -689,7 +689,7 @@
     "descricao": "Prato japonês quente com vários ingredientes cozidos em caldo de dashi aromático.",
     "origem": "JP",
     "ingredientes": [
-      {"nome": "Ovos cozidos", "quantidade": "4 unidades"},
+      {"nome": "Ovo cozidos", "quantidade": "4 unidades"},
       {"nome": "Daikon (nabo japonês)", "quantidade": "1 unidade"},
       {"nome": "Konnyaku (gelatina de batata)", "quantidade": "200g"},
       {"nome": "Chikuwa (massa de peixe)", "quantidade": "4 unidades"},
@@ -699,7 +699,7 @@
       {"nome": "Mirin (saquê doce)", "quantidade": "2 colheres de sopa"},
       {"nome": "Sal", "quantidade": "a gosto"}
     ],
-    "modoDePreparo": "Corte o daikon em rodelas grossas. Ferva o dashi com kombu, shoyu, mirin e sal. Adicione os ingredientes (daikon, konnyaku, chikuwa) ao caldo e cozinhe até os vegetais estarem macios.",
+    "modoDePreparo": "Corte o daikon em rodelas grossas. Cozinhe os ovos. Ferva o dashi com kombu, shoyu, mirin e sal. Adicione os ingredientes (daikon, konnyaku, chikuwa) ao caldo e cozinhe até os vegetais estarem macios.",
     "pathImagem": "https://www.justonecookbook.com/wp-content/uploads/2022/10/Oden-Japanese-Fish-Cake-Stew-0974-I-1.jpg"
   },
   {
@@ -708,14 +708,14 @@
     "descricao": "Uma omelete simples e rápida feita com ovos, queijo e presunto.",
     "origem": "FR",
     "ingredientes": [
-      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Ovo", "quantidade": "2 unidades"},
       {"nome": "Queijo", "quantidade": "50 gramas"},
       {"nome": "Presunto", "quantidade": "50 gramas"},
       {"nome": "Sal", "quantidade": "a gosto"},
-      {"nome": "Pimenta", "quantidade": "a gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"},
       {"nome": "Manteiga", "quantidade": "1 colher de sopa"}
     ],
-    "modoDePreparo": "Bata os ovos com sal e pimenta. Derreta a manteiga em uma frigideira. Despeje os ovos batidos e cozinhe por alguns minutos. Adicione o queijo e o presunto, dobre a omelete ao meio e cozinhe até o queijo derreter.",
+    "modoDePreparo": "Bata os ovos com sal e pimenta-do-reino. Derreta a manteiga em uma frigideira. Despeje os ovos batidos e cozinhe por alguns minutos. Adicione o queijo e o presunto, dobre a omelete ao meio e cozinhe até o queijo derreter.",
     "pathImagem": "https://i.ytimg.com/vi/gY4YpCyxV4Q/maxresdefault.jpg"
   },
   {
@@ -741,7 +741,7 @@
       {"nome": "Açúcar", "quantidade": "150g"},
       {"nome": "Leite", "quantidade": "200ml"},
       {"nome": "Manteiga", "quantidade": "100g"},
-      {"nome": "Ovos", "quantidade": "4 unidades"},
+      {"nome": "Ovo", "quantidade": "4 unidades"},
       {"nome": "Fermento em pó", "quantidade": "10g"},
       {"nome": "Essência de baunilha", "quantidade": "1 colher de chá"},
       {"nome": "Raspas de laranja", "quantidade": "1 colher de sopa"},
@@ -760,12 +760,12 @@
     "descricao": "Um pão macio e saboroso feito com batatas, ideal para acompanhar refeições ou para ser consumido como lanche.",
     "origem": "BR",
     "ingredientes": [
-      {"nome": "Batatas", "quantidade": "3 médias"},
+      {"nome": "Batata", "quantidade": "3 médias"},
       {"nome": "Farinha de Trigo", "quantidade": "4 xícaras"},
       {"nome": "Fermento Biológico Seco", "quantidade": "1 envelope (10 gramas)"},
       {"nome": "Açúcar", "quantidade": "1 colher de sopa"},
       {"nome": "Sal", "quantidade": "1 colher de chá"},
-      {"nome": "Ovos", "quantidade": "1 unidade"},
+      {"nome": "Ovo", "quantidade": "1 unidade"},
       {"nome": "Manteiga", "quantidade": "2 colheres de sopa"},
       {"nome": "Leite", "quantidade": "1/2 xícara"}
     ],
@@ -815,7 +815,7 @@
       {"nome": "Queijo Ralado", "quantidade": "1 xícara"},
       {"nome": "Leite", "quantidade": "1/2 xícara"},
       {"nome": "Óleo", "quantidade": "1/4 xícara"},
-      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Ovo", "quantidade": "2 unidades"},
       {"nome": "Sal", "quantidade": "a gosto"}
     ],
     "modoDePreparo": "Misture todos os ingredientes até obter uma massa homogênea. Faça bolinhas e asse a 200°C por 20 minutos.",
@@ -912,11 +912,11 @@
       {"nome": "Salsinha", "quantidade": "1/2 xícara"},
       {"nome": "Hortelã", "quantidade": "1/4 xícara"},
       {"nome": "Sal", "quantidade": "1 colher de chá"},
-      {"nome": "Pimenta do reino", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Azeite", "quantidade": "Para regar"},
       {"nome": "Catupiry", "quantidade": "A gosto"}
     ],
-    "modoDePreparo": "Hidrate o trigo para quibe na água por cerca de 1 hora, até absorver toda a água. Em uma tigela, misture a carne moída, a cebola picada, a salsinha, a hortelã, a pimenta síria, o sal e a pimenta do reino. Adicione o trigo hidratado e misture bem até formar uma massa homogênea. Em uma forma untada, coloque metade da massa de quibe, espalhe uma camada de catupiry sobre ela, cubra com o restante da massa de quibe e alise a superfície. Faça cortes superficiais em formato de losangos. Regue com azeite de oliva. Leve ao forno preaquecido a 180°C por cerca de 40 minutos, ou até que o quibe esteja dourado e cozido por dentro.",
+    "modoDePreparo": "Hidrate o trigo para quibe na água por cerca de 1 hora, até absorver toda a água. Em uma tigela, misture a carne moída, a cebola picada, a salsinha, a hortelã, a pimenta síria, o sal e a pimenta-do-reino. Adicione o trigo hidratado e misture bem até formar uma massa homogênea. Em uma forma untada, coloque metade da massa de quibe, espalhe uma camada de catupiry sobre ela, cubra com o restante da massa de quibe e alise a superfície. Faça cortes superficiais em formato de losangos. Regue com azeite de oliva. Leve ao forno preaquecido a 180°C por cerca de 40 minutos, ou até que o quibe esteja dourado e cozido por dentro.",
     "pathImagem": "https://i.ytimg.com/vi/4lnkIs408AQ/maxresdefault.jpg"
   },
   {
@@ -947,7 +947,7 @@
     "descricao": "O rocambole de doce de leite é uma deliciosa sobremesa com um recheio cremoso de doce de leite, enrolado em uma massa macia e levemente doce.",
     "origem": "CH",
     "ingredientes": [
-      {"nome": "Ovos", "quantidade": "4 unidades"},
+      {"nome": "Ovo", "quantidade": "4 unidades"},
       {"nome": "Açúcar", "quantidade": "1 xícara"},
       {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
       {"nome": "Fermento em pó", "quantidade": "1 colher de chá"},
@@ -968,7 +968,7 @@
       {"nome": "Açúcar", "quantidade": "100g"},
       {"nome": "Leite", "quantidade": "250ml"},
       {"nome": "Manteiga", "quantidade": "100g"},
-      {"nome": "Ovos", "quantidade": "2 unidades"},
+      {"nome": "Ovo", "quantidade": "2 unidades"},
       {"nome": "Fermento em pó", "quantidade": "10g"},
       {"nome": "Sal", "quantidade": "1 colher de chá"},
       {"nome": "Canela em pó", "quantidade": "1 colher de chá"},
@@ -1050,9 +1050,9 @@
       {"nome": "Alho", "quantidade": "2 dentes"},
       {"nome": "Azeite", "quantidade": "2 colheres de sopa"},
       {"nome": "Sal", "quantidade": "a gosto"},
-      {"nome": "Pimenta", "quantidade": "a gosto"}
+      {"nome": "Pimenta-do-reino", "quantidade": "a gosto"}
     ],
-    "modoDePreparo": "Refogue a cebola e o alho no azeite. Adicione os legumes picados e o caldo de legumes. Cozinhe até os legumes ficarem macios.",
+    "modoDePreparo": "Refogue a cebola e o alho no azeite. Adicione os legumes picados e o caldo de legumes. Cozinhe até os legumes ficarem macios e tempere com sal e pimenta-do-reino a gosto.",
     "pathImagem": "https://assets.unileversolutions.com/recipes-v2/36850.jpg"
   },
   {
@@ -1071,10 +1071,10 @@
       {"nome": "Mostarda", "quantidade": "1 colher de sopa"},
       {"nome": "Creme de leite", "quantidade": "1 lata"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"},
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"},
       {"nome": "Batata palha", "quantidade": "Para acompanhar"}
     ],
-    "modoDePreparo": "Corte o peito de frango em cubos pequenos. Em uma frigideira grande, derreta a manteiga com o óleo e refogue a cebola e o alho picados até dourarem. Adicione o frango e refogue até que esteja completamente cozido. Acrescente o champignon picado, o ketchup e a mostarda. Cozinhe por alguns minutos. Reduza o fogo e adicione o creme de leite, mexendo bem para incorporar ao molho. Tempere com sal e pimenta a gosto. Cozinhe por mais alguns minutos, até que o molho esteja aquecido. Sirva o strogonoff acompanhado de arroz branco e batata palha.",
+    "modoDePreparo": "Corte o peito de frango em cubos pequenos. Em uma frigideira grande, derreta a manteiga com o óleo e refogue a cebola e o alho picados até dourarem. Adicione o frango e refogue até que esteja completamente cozido. Acrescente o champignon picado, o ketchup e a mostarda. Cozinhe por alguns minutos. Reduza o fogo e adicione o creme de leite, mexendo bem para incorporar ao molho. Tempere com sal e pimenta-do-reino a gosto. Cozinhe por mais alguns minutos, até que o molho esteja aquecido. Sirva o strogonoff acompanhado de arroz branco e batata palha.",
     "pathImagem": "https://portal.lodivino.com.br/images/receitas/strogonoff-de-frango.jpg"
   },
   {
@@ -1119,7 +1119,7 @@
     "origem": "BR",
     "ingredientes": [
       {"nome": "Massa de torta pronta", "quantidade": "1 unidade"},
-      {"nome": "Peito de frango cozido e desfiado", "quantidade": "500g"},
+      {"nome": "Frango", "quantidade": "500g"},
       {"nome": "Cebola", "quantidade": "1 unidade"},
       {"nome": "Alho", "quantidade": "2 dentes"},
       {"nome": "Tomate", "quantidade": "1 unidade"},
@@ -1129,11 +1129,11 @@
       {"nome": "Caldo de galinha", "quantidade": "1 tablete"},
       {"nome": "Creme de leite", "quantidade": "1 lata"},
       {"nome": "Queijo ralado", "quantidade": "1 xícara"},
-      {"nome": "Ovo ", "quantidade": "1 unidade"},
+      {"nome": "Ovo", "quantidade": "1 unidade"},
       {"nome": "Sal", "quantidade": "A gosto"},
-      {"nome": "Pimenta", "quantidade": "A gosto"}
+      {"nome": "Pimenta-do-reino", "quantidade": "A gosto"}
     ],
-    "modoDePreparo": "Refogue a cebola e o alho em um pouco de azeite até dourarem. Adicione o frango desfiado, o tomate, o milho, a ervilha (se desejar) e as azeitonas. Dissolva o caldo de galinha em um pouco de água quente e adicione ao refogado. Cozinhe por alguns minutos até reduzir o líquido. Desligue o fogo, adicione o creme de leite, o queijo ralado, e tempere com sal e pimenta a gosto. Forre uma forma com a massa de torta, coloque o recheio por cima e cubra com outra camada de massa. Pincele a superfície com ovo batido e leve ao forno preaquecido a 180°C por cerca de 30 minutos, ou até dourar.",
+    "modoDePreparo": "Refogue a cebola e o alho em um pouco de azeite até dourarem. Adicione o frango desfiado, o tomate, o milho, a ervilha (se desejar) e as azeitonas. Dissolva o caldo de galinha em um pouco de água quente e adicione ao refogado. Cozinhe por alguns minutos até reduzir o líquido. Desligue o fogo, adicione o creme de leite, o queijo ralado, e tempere com sal e pimenta-do-reino a gosto. Forre uma forma com a massa de torta, coloque o recheio por cima e cubra com outra camada de massa. Pincele a superfície com ovo batido e leve ao forno preaquecido a 180°C por cerca de 30 minutos, ou até dourar.",
     "pathImagem": "https://i.ytimg.com/vi/bhZ7CSbYqtY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6HSKeor2XgjCVxIYXDnl9KwyO8A"
   },
   {
@@ -1143,7 +1143,7 @@
     "origem": "JP",
     "ingredientes": [
       {"nome": "Macarrão para yakisoba", "quantidade": "250g"},
-      {"nome": "Peito de frango", "quantidade": "200g"},
+      {"nome": "Frango", "quantidade": "200g"},
       {"nome": "Cenoura", "quantidade": "1 unidade"},
       {"nome": "Brócolis", "quantidade": "1 xícara"},
       {"nome": "Pimentão vermelho", "quantidade": "1 unidade"},
