@@ -1,63 +1,69 @@
-### ReceitasReactFront
+### ReceitasBackSpringBoot
 
-This is the front-end repository for the Recipes Project. It is built with React and connects to a Spring Boot backend to fetch and display a collection of recipes.
+This is the back-end repository for the Recipes Project. It is built with Spring Boot and serves as an API to manage and provide recipe data to the front-end.
 
 #### Features
 
-- **React**: The front end is developed using React.
-- **API Integration**: Fetches recipe data from a Spring Boot API.
-- **Responsive Design**: The interface is responsive and mobile-friendly.
-- **Component-Based Architecture**: Uses reusable React components.
-- **Routing**: Implements client-side routing for navigation.
+- **Spring Boot**: The backend is developed using Spring Boot.
+- **REST API**: Provides endpoints to fetch and manage recipe data.
+- **JSON Data Storage**: Stores recipe data in JSON files.
+- **OOP Principles**: Implements Object-Oriented Programming concepts.
 
 #### Getting Started
 
 **Prerequisites**
 
-- Node.js
-- npm or Yarn
+- Java 11 or higher
+- Maven
 
 **Installation**
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/alexoliveiramartins/ReceitasReactFront.git
-   cd ReceitasReactFront
+   git clone https://github.com/alexoliveiramartins/ReceitasBackSpringBoot.git
+   cd ReceitasBackSpringBoot
    ```
 
-2. Install dependencies:
+2. Build the project with Maven:
 
    ```bash
-   npm install
+   mvn clean install
    ```
 
-3. Start the development server:
+3. Run the application:
 
    ```bash
-   npm start
+   mvn spring-boot:run
    ```
 
-4. The application should now be running on `http://localhost:3000`.
+4. The API should now be running on `http://localhost:8080`.
+
+**API Endpoints**
+
+- `GET /receitas`: Fetch all recipes.
+- `GET /receitas/{id}`: Fetch a specific recipe by ID.
+- `POST /receitas`: Add a new recipe.
+- `PUT /receitas/{id}`: Update an existing recipe.
+- `DELETE /receitas/{id}`: Delete a recipe.
 
 **Project Structure**
 
-- `src/`: Contains the source code for the application.
-  - `components/`: Reusable React components.
-  - `pages/`: Different pages of the application.
-  - `services/`: Contains services for API calls.
-  - `App.js`: The main application component.
+- `src/main/java/`: Contains the Java source code.
+  - `controllers/`: REST controllers.
+  - `models/`: Domain models (e.g., `Receita`, `Ingrediente`).
+  - `services/`: Business logic and service classes.
+  - `repositories/`: Data access logic.
 
 #### Usage
 
-- **Home Page**: Displays a list of recipes.
-- **Recipe Details**: Clicking on a recipe title takes you to a page with more details about that recipe.
-- **Search**: Allows users to search for recipes based on ingredients.
+- **API Clients**: Use tools like Postman or cURL to interact with the API.
+- **Integration with Front-End**: The front-end React application consumes this API to display recipe data.
 
 #### Tech Stack
 
-- React
-- Tailwind CSS for styling
+- Spring Boot
+- Maven
 
 #### Contributing
 
