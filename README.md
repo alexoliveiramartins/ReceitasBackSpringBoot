@@ -1,6 +1,6 @@
 ### ReceitasBackSpringBoot
 
-This is the back-end repository for the Recipes Project. It is built with Spring Boot and serves as an API to manage and provide recipe data to the front-end.
+This is the back-end repository for the Recipes Project for an OOP college class. It is built with Spring Boot and serves as an API to manage and provide recipe data to the front-end.
 
 #### Features
 
@@ -13,7 +13,7 @@ This is the back-end repository for the Recipes Project. It is built with Spring
 
 **Prerequisites**
 
-- Java 11 or higher
+- Java 17 or higher
 - Maven
 
 **Installation**
@@ -43,17 +43,13 @@ This is the back-end repository for the Recipes Project. It is built with Spring
 
 - `GET /receitas`: Fetch all recipes.
 - `GET /receitas/{id}`: Fetch a specific recipe by ID.
-- `POST /receitas`: Add a new recipe.
-- `PUT /receitas/{id}`: Update an existing recipe.
-- `DELETE /receitas/{id}`: Delete a recipe.
+- `GET /receitas/pais`: Fetch a specific recipe by country.
 
 **Project Structure**
 
 - `src/main/java/`: Contains the Java source code.
   - `controllers/`: REST controllers.
-  - `models/`: Domain models (e.g., `Receita`, `Ingrediente`).
-  - `services/`: Business logic and service classes.
-  - `repositories/`: Data access logic.
+  - `services/`: Business logic and service classes. 
 
 #### Usage
 
